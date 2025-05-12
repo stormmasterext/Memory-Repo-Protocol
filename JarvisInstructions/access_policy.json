@@ -1,0 +1,14 @@
+{
+    "Jarvis2": {
+        "has_access": [
+            "Rainmaker",
+            "StormMaster",
+            "JarvisInstructions",
+            "CalendarOfCalendars"
+        ],
+        "restricted": [
+            "Personal",
+            "BooksAndMore"
+        ]
+    }
+}
