@@ -1,0 +1,51 @@
+Summary Dashboard
+-----------------
+This sheet provides an overview of all share classes, total shares, % ownership, voting power, and dividend rights per class.
+
+Founder Dashboard
+-----------------
+Placeholder: Founder
+- Holdings: Founder Shares, Class A, Class B, Class C
+- Voting power, dividend rights, lockup/unlock status, conversion options
+
+Class A 1 Dashboard
+-------------------
+Placeholder: Class A 1
+- Holdings: Class A, Class B, Class C
+- Voting power, dividend rights, lockup/unlock status, conversion options
+
+Class A 2 Dashboard
+-------------------
+Placeholder: Class A 2
+- Same structure as Class A 1
+
+Class A 3 Dashboard
+-------------------
+Placeholder: Class A 3
+- Same structure as Class A 1
+
+Class B Dashboard
+-----------------
+Placeholder: Class B Investor
+- Holdings: Class B, Class C
+- Voting power, dividend rights
+
+Class C Dashboard
+-----------------
+Placeholder: Class C Investor
+- Holdings: Class C
+- Dividend rights
+
+Split & Expansion Simulator
+---------------------------
+- Input: funding round multipliers, number of new Class A subgroups
+- Output: before/after share counts, % ownership, voting power
+
+Voting Simulator
+----------------
+- Input: number of shares per class voting, scenario toggles (Founder veto, etc.)
+- Output: voting results, thresholds, outcome
+
+---
+
+This is a placeholder for the Excel file structure. Please use Excel to create the actual workbook with the above tabs and formulas as described in the previous messages. If you need a downloadable .xlsx file, please let me know if you want a template or a sample with example data.

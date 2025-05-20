@@ -1,0 +1,762 @@
+SHAREHOLDER AGREEMENT
+
+OF
+
+RAINMAKER PROTOCOL, INC.
+___________________________________________________________________________________________
+	
+THIS AGREEMENT made and effective as of the ________ day of _________, 2025, between EUGENE THERRIEN (“Founder”), the shareholders as specified on Exhibit A (singularly “Shareholder” and collectively “Shareholders”, and RAINMAKER PROTOCOL, INC., a Michigan Corporation [or Limited Liability Company] (“Company”). Founder, Shareholders, and Company may collectively be referred to as the “Parties”.
+
+RECITALS
+
+A. The Company was incorporated [or organized] in the State of Michigan to engage in the business of enterprise software development and such other business activities as agreed upon by the Parties.
+
+B. The Parties own the number of outstanding shares of the respective classes of shares of the Company as specified on Exhibit A, as amended from time to time (the “Shares”). Unless specified otherwise in this Agreement the term “Shareholders” shall mean any person who owns any class of shares in the Company. It is the intention of the parties hereto that all shares issued and outstanding of the Company be at all times subject to the terms of this Agreement.
+
+C. The Parties have concluded after due deliberation that it is in their mutual best interests, and necessary in order to provide for continuity and harmony in the management and policies of the Company, to require certain restrictions on the transfer of Shares in the Company and to provide for a sale or transfer of the Company’s Shares only under specified conditions. 
+
+D. The Parties seek to define the respective rights, obligations, and limitations regarding ownership, governance, and transferability of Shares of the Company. 
+
+E. The Parties wish to establish governance mechanisms that ensure fair equity distributions while maintaining operation stability and protecting the interests of the Founder, the Shareholders, and all other stakeholders. In addition to the Shares currently owned, any additional Shares of the Company’s capital stock hereafter purchased or otherwise acquired, regardless of Class, shall be subject to this Agreement.
+
+       In consideration of the mutual promises contained in this Agreement and other good and valuable consideration, the receipt of which is hereby acknowledged, the Parties to this Agreement agree as follows:
+
+AGREEMENT
+
+ARTICLE I – DEFINITIONS
+
+For purposes of this Agreement, the following terms shall have the meanings set forth below:
+
+1.1. “Act” means the Michigan Business Corporation Act, MCL 450.1101 et. seq, as amended [or, Michigan Limited Liability Company Act, MCL 450.4101 et. seq, as amended].
+
+1.2. “Agreement” means this Shareholder Agreement of Rainmaker Protocol, Inc. [or LLC], as amended from time to time pursuant to this Agreement.
+
+1.3. “Articles” means the Articles of Incorporation [or Organization] filed with the State of Michigan, as amended from time to time pursuant to this Agreement.
+
+1.4. “Board” means the Board of Directors of the Company.
+
+1.5. “Director” means a member of the Board.
+
+1.6. “Founder” means Eugene Therrien and his legal successors, assigns, or estates.
+
+1.7. “Founder Shares” means shares owned by the Founder which carry specific rights and restrictions as outlined in this Agreement.
+
+1.8. “Funding Round” means a process in which the Company raises capital from external investors, typically through the issuance of new Class B and/or Class C Shares, to fund its operations, growth, and specific projects.
+
+1.9. “Class A Expansion” has the meaning defined in Section 3.2.2.7. herein.
+
+1.10. “Class A Shares” means shares granted to certain individuals in exchange for said individuals providing sweat equity on behalf of the Company as outlined in this Agreement.
+
+1.11. “Class A Subgroups” means designated professional categories within Class A Shares, each subgroup contributing to a specific operational aspect of the Company.
+
+1.12. “Class A Shareholders” means the shareholders holding Class A Shares.
+
+1.13. “Class B Shares” means investment shares issued or converted giving investors both voting rights and dividend rights.
+
+1.14. “Class B Shareholders” means the shareholders holding Class B Shares.
+
+1.15. “Class C Shares” means non-voting investment shares issued or converted and intended for high-yield dividend purposes.
+
+1.16. “Class C Shareholders” means the shareholders holding Class C Shares.
+
+1.17. “Classes of Shares” means the different types of Company stock distinguished by different voting rights, dividend entitlement, and shareholder rights.
+
+1.18. “Shares” means the tabulation of the total issued and outstanding collective of the individual Classes of Shares as shown on Exhibit A, as amended from time to time.
+
+1.19. “Simple Majority” means an approval threshold requiring 50% plus 1 of all eligible votes cast.
+
+1.20. “Super Majority” means an approval threshold requiring at least 75% of all eligible votes cast.
+
+1.21. “Transfer” is any sale, exchange, or other disposition or encumbrance of Shares, whether absolute or as security, whether for a valuable consideration or as a gift, whether voluntary or involuntary, except that a “transfer” shall not be deemed to include a transfer of Shares to a living trust of which the Shareholder serves as the sole trustee or a transfer pursuant to a Shareholder’s last will and testament.
+
+
+ARTICLE II – SHARES OF THE COMPANY
+
+1. 
+2. 
+2.1. Issuance of Shares. The Shares of capital stock of the Company shall be issued in the amounts, at the times, for the consideration, and on the terms and conditions that the Board shall deem advisable, subject to the Articles and any requirements of the laws of the State of Michigan.
+
+2.2. Certificates for Shares. The certificated Shares of the Company shall be represented by certificates signed by the Chairperson of the Board, the President, or a Vice President, and also may be signed by the Treasurer, Assistant Treasurer, Secretary, or Assistant Secretary of the Company, and may be sealed with the seal of the Company, if any, or a facsimile of it. A certificate representing Shares shall state on its face that the Company is formed under the laws of the State of Michigan and shall also state the name of the person to whom it is issued, the number and Class of Shares that the certificate represents, and any other provisions that may be required by the laws of the State of Michigan. Notwithstanding the foregoing, the Board may authorize the issuance of some or all of the Shares without certificates to the fullest extent permitted by law. Within a reasonable time after the issuance or transfer of Shares without certificates, the Company shall send the Shareholder a written statement of the information required on certificates by applicable law.
+
+2.3. Registered Shareholders. The Company shall be entitled to treat the person in whose name any Share of stock is registered as the owner of it for the purpose of dividends and other distributions or for any recapitalization, merger, plan of share exchange, reorganization, sale of assets, or liquidation, for the purpose of votes, approvals, and consents by Shareholders, for the purpose of notices to Shareholders, and for all other purposes whatever, and shall not be bound to recognize any equitable or other claim to or interest in the Shares by any other person, whether or not the Company shall have notice of it, save as expressly required by the laws of the State of Michigan.
+
+2.4. Lost or Destroyed Certificates.  On the presentation to the Company of a proper affidavit attesting to the loss, destruction, or mutilation of any certificate or certificates for Shares of stock of the Company, or such other evidence as the Board may require, the Company shall direct the issuance of a new certificate or certificates to replace the certificates alleged to be lost, destroyed, or mutilated. The Company may require as a condition precedent to the issuance of new certificates a bond or agreement of indemnity, in the form and amount and with or without the sureties, as the Board may direct or approve.
+
+2.5. Restriction on Transfer of Shares. Except as specifically set forth in this Agreement, a Shareholder shall not transfer any of his or her Shares. For the purposes of this Section 2.5, “shareholder” includes a Shareholder’s representative, executor, or legal guardian as necessary. Conspicuous notice of this restriction shall be set forth on the face or back of all certificates evidencing Shares of the Company or on the written statement provided to owners of the Company’s Shares in the event that the Company is authorized to issue Shares without certificates.
+
+
+ARTICLE III – CLASSES OF SHARES AND EQUITY DISTRIBUTION
+
+1. 
+2. 
+3. 
+3.1. Initial Issuance of Shares.  The Company shall be authorized to issue 10,000,000 shares, allocated as set forth within this Article III.
+
+3.2. Classes of Shares.  The Company shall have each of the following Classes of Shares:
+
+3.2.1. Founder Shares.
+
+3.2.1.1. Purpose of Founder Shares.  The purpose of the Founder Shares is to compensate the Founder for founding the Company.
+
+3.2.1.2. Initial Amount Authorized to Be Issued.  The Parties agree the initial number of Founder Shares authorized shall be 5,100,000 shares. All Founder Shares shall be issued immediately to Founder upon this Agreement becoming effective.
+
+3.2.1.3. Entitled to Ownership.  Only the Founder shall be entitled to own Founder Shares.
+
+3.2.1.4. Voting Power.  Each Founder Share shall be entitled to ten (10) votes for all decisions put to the Shareholders.
+
+3.2.1.5. Equity Distribution Rights.  Each Founder Share shall be entitled to dividends approved and authorized by the Board, on a pro-rata basis, and at a multiple of 1.0x. While Founder Shares are entitled to dividends and other distributions, the Board shall be authorized to approve dividends and other distributions to Class B Shares and Class A Shares without approving pro rata dividends to Founder Shares. The Founder may choose to reinvest some or all of their dividend into Class B and/or Class C Shares in place of receiving monetary dividends.
+
+3.2.1.6. Restrictions on Sale.  Notwithstanding anything to the contrary in this Agreement, upon issuance Founder Shares shall immediately become locked and restricted from sale but said Founder Shares shall unlock as follows: (i) 10% of all issued Shares shall unlock on December 31 of each year beginning with December 31, 2025, and (2) all Founder Shares shall unlock on December 31, 2030. Upon sale, Founder Shares shall automatically convert to Class B Shares or Class C Shares at the option of the buyer of the Founder Shares. If no election is made the Shares shall be Class B Shares.
+
+3.2.2. Class A Shares.
+
+3.2.2.1. Purpose of Class A Shares.  The purpose of Class A Shares is to compensate eligible contractors of the Company with Shares of the Company in place of monetary compensation.
+
+3.2.2.2. Initial Amount Authorized.  The Parties agree the initial number of Class A Shares authorized shall be 4,900,000 shares. Class A Shares shall be issued to eligible contractors within each of the defined Class A Subgroups, as set forth below, in exchange for work actually contributed by the eligible contractor to the Company within said Class A Subgroups. Class A Shares shall be issued on a one-share-per-one-dollar of work actually performed basis. Eligible contractors seeking Class A Shares in exchange for work shall submit an invoice to the Company which shall be approved by the Board prior to any Class A Shares being issued. If an invoice is rejected by the Board, the invoice shall be paid in cash instead of Class A Shares in the Board’s sole and absolute discretion.
+
+3.2.2.3. Entitled to Ownership.  Only eligible contractors of the Company shall be entitled to own Class A Shares. Class A Shares shall not be available for purchase and can only be obtained in exchange for the provision of work actually provided to the Company on the basis of the certain master services agreement(s) entered into between the Company and the eligible contractors. Class A Shares must be owned by an individual or an individual’s estate plan over which the individual has full authority. Class A Shares cannot be owned by an entity of any kind apart from an estate plan allowed pursuant to this Agreement. Notwithstanding the above, upon the written approval of a Simple Majority of the Board, whose approval can be withheld by the Board for any reason, an entity can be authorized to own Class A Shares contingent on each of the following three requirements:
+
+3.2.2.3.1. The allowance by the Board of one entity to own Class A Shares shall not create a precedent allowing any other entities to own Class A Shares;
+
+3.2.2.3.2. The entity entitled to own Class A Shares must name one non-entity person who shall be the sole voice of the entity for purposes of the Company and this Agreement; and
+
+3.2.2.3.3. If the Board deems a significant change in circumstances has occurred including, but not limited to, a change in ownership of the entity authorized to own Class A Shares, the Board may require a sale of the Class A Shares by the entity consistent with Section 10.6.1 herein.
+
+3.2.2.4. Voting Power.  Each Class A Share shall be entitled to six (6) votes for all decisions put to the Shareholders.
+
+3.2.2.5. Equity Distribution Rights.  Each Class A Share shall be entitled to dividends approved and authorized by the Board, on a pro-rata basis, and at a multiple of 1.0x. While Class A Shares are entitled to dividends and other distributions, the Board shall be authorized to approve dividends and other distributions to Class B Shares and Class A Shares without approving pro rata dividends to Class A Shares. Class A Shareholders may choose to reinvest some or all of their dividend into Class B and/or Class C Shares in place of receiving monetary dividends.
+
+3.2.2.6. Class A Subgroups.  Class A Shares shall be equally allocated across the Class A Subgroups, with each Subgroup being responsible for a critical function to assist in Company growth. For illustrative pursposes subject to be changed by a Simple Majority vote of the Board, the Class A Subgroups are as follows:
+
+3.2.2.6.1. Engineering & Development
+
+3.2.2.6.2. Product Management
+
+3.2.2.6.3. Marketing & Growth
+
+3.2.2.6.4. Sales & Business Development
+
+3.2.2.6.5. Customer Success & Support
+
+3.2.2.6.6. Legal & Compliance
+
+3.2.2.6.7. Finance & Accounting
+
+3.2.2.6.8. Operations & Strategy 
+
+3.2.2.6.9. Partnerships & Ecosystem Development
+
+3.2.2.6.10. Human Resources & Talent Acquisition
+
+3.2.2.7. Class A Expansion.  New Class A Subgroups may be created by a Super Majority vote of the Board and the written consent of the Founder. When a new Class A Subgroup is created, the authorized Shares of each then existing Class A Subgroup shall be increased by 10% of the then-existing number of authorized shares in each Subgroup, and the new Class A Subgroup created shall be authorized an equal number of Class A Shares as those that exist in every other Class A Subgroup following the 10% increase. This process of creating new Class A Subgroups and adding more shares shall be called a “Class A Expansion”. No other Class of Shares shall expand as part of a Class A Expansion.
+
+The following example is designed for illustrative purposes only. Upon this Agreement being executed, 490,000 Class A Shares (calculated as 4,900,000 million Class A Shares divided by 10 Class A Subgroups) shall be authorized to each of the ten (10) original Class A Subgroups. Upon the first Class A Expansion, each of the ten (10) original Class A Subgroups shall increase from 490,000 Class A Shares to 539,000 Class A Shares (calculated as 490,000 Class A Shares times 1.10x). In addition, a new eleventh Class A Subgroup will be created that will also have 539,000 Class A Shares authorized to it. Upon the second Class A Expansion, each of the then-existing eleven (11) Class A Subgroups shall increase from 539,000 Class A Shares to 592,900 Class A Shares (calculated as 539,000,000 Class A Shares times 1.10x). In addition, a new twelfth Class A Subgroup will be created that will also have 592,900 Class A Shares authorized to it. This process shall continue for each new Class A Expansion.
+
+3.2.2.8. Restrictions on Sale.  Notwithstanding anything to the contrary in this Agreement, upon issuance Class A Shares shall immediately become locked and restricted from sale, but said Class A Shares shall be authorized to be sold at the end of each of the five (5) planned Funding Rounds as determined by the Board. Individual Class A Shareholders shall be limited to selling only a pro-rata number of Class A Shares determined by the number of Shares desired to be purchased by the market. If no market then exists for the sale of Class A Shares, no Class A Shares may be sold at that time. After the final of the five (5) planned Funding Rounds, Class A Shares shall become unlocked. Upon sale, Class A Shares shall automatically convert to Class B Shares or Class C Shares at the option of the buyer of the Class A Shares. If no election is made the Shares shall be Class B Shares.
+
+Notwithstanding anything to the contrary in this Section 3.2.2.8 or in Section 10.2 below, Class A Shareholders may sell Class A Shares to any other Class A Shareholder or the Founder at any time. If a Class A Shareholder is the buyer of Class A Shares, the Class A Shares can remain Class A Shares or be converted to either Class B Shares, Class C Shares, or any combination of the three, at the Class A Shareholder buyer’s option and with thirty (30) days’ prior written notice to the Board. If the Founder is the buyer of Class A Shares, the Class A Shares can be converted to either Class B Shares or Class C Shares, or a combination of the two, at the Founder’s option. In all events where no election is made the Shares shall be converted to Class B Shares.
+
+3.2.2.9. Company Buyback Right.  If a Class A Shareholder leaves the Company as a contractor for any reason prior to December 31, 2030, the Company shall have the automatic right, but not the requirement, to buyback all Class A Shares held by the Class A Shareholder at the then current value of the Class A Shares as determined by the Fair Market Value of the Company established by the Board pursuant to Section 13.1, or if a Fair Market Value of the Company is not available, based on a 5x EBITDA valuation of the Company’s most recent annual Income Statement. This Company Buyback Right shall automatically become null and void and of no further force and effect on January 1, 2031.
+
+3.2.3. Class B Shares.
+
+3.2.3.1. Purpose of Class B Shares.  The purpose of Class B Shares is to promote investments in the Company from outside parties to generate cash to be used to grow the Company. Class B Shares shall entitle Class B Shareholders to a vote at shareholder meetings as set forth herein.
+
+3.2.3.2. Initial Amount Authorized.  The Parties agree that no Class B Shares shall initially be authorized.
+
+3.2.3.3. Authorization of New Class B Shares.  Class B Shares shall be authorized and issued as part of investor rounds engaged in by the Company. The number of Class B Shares authorized per investor round shall be determined by the market at the time of the investor round. The commencement of a Class B investor round shall require a Super Majority vote of the Board.
+
+3.2.3.4. Purchase of Class B Shares by the Founder and Class A Shareholders.  The Founder and Class A Shareholders shall be entitled to purchase Class B Shares of the Company during any Funding Round effectuated by the Board. The value per share of Class B Shares shall be determined by the Board. The commencement of a Class B Shares purchase period shall require a Super Majority vote of the Board.
+
+3.2.3.5. Overflow of Class A Qualified Work.  In the event one or more of the Class A Subgroups no longer has outstanding authorized shares to issue to compensate eligible contractors for their work, said eligible contractors may choose to be compensated with Class B Shares and/or Class C Shares in place of monetary compensation. In the event new Class A Shares are later allocated to the then full Class A Subgroup, eligible contractors shall not be entitled to exchange their Class B Shares or Class C Shares for the newly authorized Class A Shares.
+
+3.2.3.6. Entitled to Ownership.  Any person or entity shall be entitled to own Class B Shares.
+
+3.2.3.7. Voting Power.  Each Class B Share shall be entitled to one (1) vote for all decisions put to the Shareholders.
+
+3.2.3.8. Equity Distribution Rights.  Each Class B Share shall be entitled to dividends approved and authorized by the Board, on a pro-rata basis, and at a multiple of 1.0x. If the Board approves dividends to be issued to Class C Shares, the Board must approve pro-rata dividends to be issued to Class B Shares. Class B Shareholders may choose to reinvest some or all of their dividend into Class B and/or Class C Shares in place of receiving monetary dividends.
+
+3.2.3.9. Redemption Rights.  The Company may conduct voluntary redemptions of Shares where Class B Shareholders shall have the option, but not the obligation, to sell their Class B Shares to the Company at a price determined by the Fair Market Value of the Company established by the Board pursuant to Section 13.1, or if a Fair Market Value of the Company is not available, based on a 5x EBITDA valuation of the Company’s most recent annual Income Statement. (“the Class B Redemption Period”). A Class B Shareholder shall need the approval of the Board to sell more than ten percent (10%) of his or her Class B Shares during any individual Class B Redemption Period.
+
+3.2.4. Class C Shares.
+
+3.2.4.1. Purpose of Class C Shares.  The purpose of Class C Shares is to promote investments in the Company from outside parties to generate cash to be used to grow the Company. Class C Shares are differentiated from Class B Shares by the fact that Class C Shareholders shall not be entitled to vote at any shareholder meetings while Class B Shareholders are entitled to such a vote.
+
+3.2.4.2. Initial Amount Authorized.  The Parties agree that no Class C Shares shall initially be authorized.
+
+3.2.4.3. Authorization of New Class C Shares.  Class C Shares shall be authorized and issued as part of investor rounds engaged in by the Company. The number of Class C Shares authorized per investor round shall be determined by the market at the time of the investor round. The commencement of a Class C investor round shall require a Super Majority vote of the Board.
+
+3.2.4.4. Purchase of Class C Shares by Shareholders.  Existing Shareholders of the Company shall be entitled to purchase Class C Shares of the Company during any Funding Round effectuated by the Board. The value per share of Class C Shares shall be determined by the Board. The commencement of a Class C Shares purchase period shall require a Super Majority vote of the Board.
+
+3.2.4.5. Entitled to Ownership.  Any person or entity shall be entitled to own Class C Shares.
+
+3.2.4.6. Voting Power.  Class C Shares shall not be entitled to any vote on decisions put to the Shareholders. Class C Shareholders acknowledge this lack of vote in exchange for the Equity Distribution Rights defined in Section 3.2.4.7. herein.
+
+3.2.4.7. Equity Distribution Rights.  Each Class C Share shall be entitled to dividends approved and authorized by the Board, on a pro-rata basis, and at a multiple of 2.0x. Class C Shareholders may choose to reinvest some or all of their dividend into Class B and/or Class C Shares in place of receiving monetary dividends.
+
+3.2.4.8. Redemption Rights.  The Company may conduct voluntary redemptions of Shares where Class C Shareholders shall have the option, but not the obligation, to sell their Class C Shares to the Company at a price determined by the Fair Market Value of the Company established pursuant to Section 13.1, or if a Fair Market Value of the Company is not available, based on a 5x EBITDA valuation of the Company’s most recent annual Income Statement (“the Class C Redemption Period”). A Class C Shareholder shall need the approval of the Board to sell more than ten percent (10%) of his or her Class C Shares during any individual Class C Redemption Period.
+
+ARTICLE IV – FUNDING ROUNDS AND SHARE SPLIT PROCEDURE
+
+1. 
+2. 
+3. 
+4. 
+4.1. Funding Rounds.  At times specified by the Board upon a Super Majority vote, the Company shall conduct five (5) Funding Rounds for the purpose of advancing the development of the Company consistent with the Company’s roadmap defined in Section 9.1. For illustrative purposes only, and subject to change at the discretion of the Board, the Company intends to conduct Funding Rounds at the completion of each of the following benchmarks:
+
+4.1.1. Funding Round One:	
+       Milestone:			____________________
+       Fundraising Goal:		____________________
+       Stock Split Multiplier:		1.50x
+
+4.1.2. Funding Round Two:	
+       Milestone:			____________________
+       Fundraising Goal:		____________________
+       Stock Split Multiplier:		1.40x
+
+
+4.1.3. Funding Round Three:	
+       Milestone:			____________________
+       Fundraising Goal:		____________________
+       Stock Split Multiplier:		1.30x
+
+4.1.4. Funding Round Four:	
+       Milestone:			____________________
+       Fundraising Goal:		____________________
+       Stock Split Multiplier:		1.25x
+
+4.1.5. Funding Round Five:	
+       Milestone:			____________________
+       Fundraising Goal:		____________________
+       Stock Split Multiplier:		1.20x
+
+4.2. Stock Split.  In the event of a Funding Round the Company shall effect a share split of all outstanding Shares of the Company, on a pro-rata basis, such that the number of Shares held by each Shareholder immediately prior to the Funding Round is multiplied by a multiplier as set forth in Section 4.1 for that particular Funding Round and based on the terms and conditions of the Funding Round. The purpose of this stock split is to adjust the equity structure of the Company to accommodate the issuance of new Shares as part of the Funding Round and to ensure that the relative ownership percentages of existing Shareholders are adjusted appropriately.
+
+4.3. Effect of Stock Split.
+
+4.3.1. The share split shall be applied equally to all Classes of Stock outstanding at the time of the Funding Round.
+
+4.3.2. The number of Shares of each Class of Shares held by each Shareholder immediately prior to the Funding Round shall be multiplied by the Share multiplier as set forth in Section 4.1 herein, resulting in an increased number of Shares held by such Shareholder, but with no change to their proportional ownership interest in the Company, except for the addition of new Shares issued to the investors taking part in the Funding Round.
+
+4.3.3. Following the share split, the Company shall issue new Share certificates or revise existing certificates to reflect the adjusted number of Shares for each Shareholder.
+
+4.4. Exceptions.  This Article IV shall not apply if the Funding Round involves a transaction that is structured as a merger, acquisition, or other transaction that would result in a change of control of the Company.
+
+
+ARTICLE V – SHAREHOLDERS AND MEETINGS OF SHAREHOLDERS
+
+1. 
+2. 
+3. 
+4. 
+5. 
+5.1. Place of Meetings.  All meetings of Shareholders shall be held at the principal office of the Company or at any other place that shall be determined by the Board and stated in the meeting notice or, at the direction of the Board to the extent permitted by applicable law, may be held by remote communication. The Board may allow participation at any meeting of Shareholders by remote communication.
+
+5.2. Annual Meeting.  The annual meeting of the Shareholders of the Company shall be held on the last Monday of the fourth month after the end of the Company’s fiscal year at 2 o’clock or at such other time as the Board may select. Directors shall be elected at each annual meeting and such other business shall be transacted as may come before the meeting.
+
+5.3. Special Meetings.  Special meetings of Shareholders may be called by the Board, the Chairperson of the Board (if the office is filled), or the President, and shall also be called by the President or Secretary at the written request of Shareholders holding a seventy-five percent (75%) or more of votes of the outstanding Shares of the Company entitled to vote. Any special meeting that is called shall state the purpose or purposes for the meeting.
+
+5.4. Notice of Meetings. Except as otherwise provided by statute, written notice of the time, place, if any, and purposes of a Shareholders meeting shall be given not less than 10 nor more than 60 days before the date of the meeting to each Shareholder of record entitled to vote at the meeting, personally, by mail to his or her last address as it appears on the books of the Company, or by a form of electronic transmission to which the Shareholder has consented. The notice shall include notice of proposals from Shareholders that are proper subjects for Shareholder action and are intended to be presented by Shareholders who have notified the Company in accordance with Section 5.3. If a Shareholder or proxy holder may be present and vote at the meeting by remote communication, the means of remote communication allowed shall be included in the notice. No notice need be given of an adjourned meeting of the Shareholders if the time and place to which the meeting is adjourned are announced at the meeting at which the adjournment is taken, and at the adjourned meeting the only business to be transacted is business that might have been transacted at the original meeting. However, if after the adjournment a new record date is fixed for the adjourned meeting, a notice of the adjourned meeting shall be given to each Shareholder of record entitled to notice on the new record date as provided in this Agreement. Notice of the time, place, and purpose of any meeting of the Shareholders may be waived by a Shareholder either before or after the meeting. Attendance of a person at any Shareholders meeting, in person, remotely, or by proxy, constitutes a waiver of notice of the meeting unless the Shareholder at the beginning of the meeting objects to holding the meeting or transacting business at the meeting, or unless with respect to consideration of a particular matter at the meeting that is not within the purpose or purposes described in the meeting notice, the Shareholder objects to considering the matter when it is presented.
+
+5.5. Record Dates.  The Board may fix in advance a record date for the purpose of determining Shareholders entitled to notice of and to vote at a meeting of Shareholders or an adjournment of the meeting or to express consent to or to dissent from a proposal without a meeting; for the purpose of determining Shareholders entitled to receive payment of a dividend or an allotment of a right; or for the purpose of any other action. The date fixed shall not be more than 60 nor less than 10 days before the date of the meeting, nor more than 60 days before any other action. In such case only the Shareholders that shall be Shareholders of record on the date so fixed shall be entitled to notice of and to vote at the meeting or an adjournment of the meeting or to express consent to or to dissent from the proposal; to receive payment of the dividend or the allotment of rights; or to participate in any other action, notwithstanding any transfer of any Shares on the books of the Company, after any such record date. If a record date is not fixed, (a) the record date for determination of Shareholders entitled to notice of or to vote at a meeting of Shareholders shall be the close of business on the day on which notice is given, or, if no notice is given, the day next preceding the day on which the meeting is held, and (b) the record date for determining Shareholders for any purpose other than that specified in item (a) shall be the close of business on the day on which the resolution of the Board relating thereto is adopted. Nothing in this Agreement shall affect the rights of a Shareholder and his or her transferee or transferor as between themselves.
+
+5.6. List of Shareholders.  The secretary of the Company or the agent of the Company having charge of the stock transfer records for Shares of the Company shall make and certify a complete list of the Shareholders entitled to vote at a Shareholders meeting or any adjournment of it. The list shall be arranged alphabetically within each Class of Shares and include the address of, and the number of Shares held by, each Shareholder; be produced at the time and place of the meeting; be subject to inspection by any Shareholder during the whole time of the meeting; and be prima facie evidence of which Shareholders are entitled to examine the list or vote at the meeting. If the meeting is held solely by means of remote communication, the list shall be open to the examination of any Shareholder during the entire meeting by posting the list on a reasonably accessible electronic network, and the information required to access the list shall be provided with the notice of the meeting.
+
+5.7. Quorum; Adjournment; Attendance by Remote Communication.
+
+5.7.1. Unless a greater or lesser quorum is required in the Articles or by applicable law, the Shareholders present at a meeting in person, remotely, or by proxy who, as of the record date for the meeting, were Shareholders entitled to cast at least a Simple Majority of the votes of all outstanding Shares of the Company entitled to vote at a meeting of Shareholders shall constitute a quorum at the meeting of Shareholders. The Shareholders present in person, remotely, or by proxy, at such meeting may continue to do business until adjournment, notwithstanding the withdrawal of enough Shareholders to have less than a quorum. When the holders of a Class of Shares are entitled to vote separately on an item of business, this bylaw applies in determining the presence of a quorum of the Class of Shares for transacting the item of business.
+
+5.7.2. Whether or not a quorum is present, a meeting of Shareholders may be adjourned by a vote of the Shares present in person, remotely, or by proxy, or by the chair of the meeting.
+
+5.7.3. Subject to any guidelines and procedures adopted by the Board, Shareholders and proxy holders not physically present at a meeting of Shareholders may participate in the meeting by means of remote communication, are considered present in person for all relevant purposes, and may vote at the meeting if all of the following conditions are satisfied: (1) the Company implements reasonable measures to verify that each person considered present and permitted to vote at the meeting by means of remote communication is a Shareholder or proxy holder, (2) the Company implements reasonable measures to provide each Shareholder and proxy holder with a reasonable opportunity to participate in the meeting and to vote on matters submitted to the Shareholders, including an opportunity to read or hear the proceedings of the meeting substantially concurrently with the proceedings, and (3) if any Shareholder or proxy holder votes or takes other action at the meeting by means of remote communication, a record of the vote or other action is maintained by the Company.
+
+5.7.4. A Shareholder or proxy holder may be present and vote at the adjourned meeting by means of remote communication if he or she was permitted to be present and vote by that means of remote communication in the original meeting notice.
+
+5.8. Proxies.  A Shareholder entitled to vote at a Shareholders meeting or to express consent or to dissent without a meeting may authorize other persons to act for the Shareholder by proxy. A proxy shall be in writing and shall be executed by the Shareholder or the Shareholder’s authorized agent or representative or shall be transmitted electronically to the person who will hold the proxy or to an agent fully authorized by the person who will hold the proxy to receive that transmission and include or be accompanied by information from which it can be determined that the electronic transmission was authorized by the Shareholder. A complete copy, fax, or other reliable reproduction of the proxy may be substituted or used in lieu of the original proxy for any purpose for which the original could be used. A proxy shall not be valid after the expiration of three years from its date unless otherwise provided in the proxy. A proxy is revocable at the pleasure of the Shareholder executing it except as otherwise provided by the laws of the State of Michigan.
+
+5.9. Voting.  Each outstanding Share is entitled to the respective number of votes for the specific Classes of Shares as set forth in Article III of this Agreement and in the Articles. Votes may be cast orally or in writing, but if more than 25 Shareholders of record are entitled to vote, votes shall be cast in writing signed by the Shareholder or the Shareholder’s proxy. When an action, other than the election of Board, is to be taken by a vote of the Shareholders, it shall be authorized by a Simple Majority of the votes cast by the holders of Shares entitled to vote on it, unless a greater vote is required by the Articles or by the laws of the State of Michigan. Unless otherwise provided by the Articles, abstaining from a vote or submitting a ballot marked “abstain” with respect to any action is not a vote cast on that action. Except as otherwise provided by the Articles, Directors shall be elected by a plurality of the votes cast at any election.
+
+5.10. Deadlock.  In the event that the Shareholders reach a deadlock, the issue shall be brought before a third party, chosen by the Shareholders.  The third party’s decision shall be binding.  In the event that the Shareholders cannot agree on a third party, each of the Shareholders shall make a list of five (5) third party candidates in order of preference.  The third party shall be the most preferred candidate that appears most often on the Shareholders’ lists.  In the event that the Shareholders cannot agree on a third party based on the list of five (5) third party candidates, the Board, shall choose a third party, which may or may not be a person on any list prepared by the Shareholders.
+
+5.11. Action Without a Meeting.  Any action required or permitted by the Act to be taken at an annual or special meeting of Shareholders may be taken without a meeting, without prior notice and without a vote, if a consent in writing, setting forth the action so taken, is signed by the holders of outstanding Shares having not less than the minimum number of votes that would be necessary to authorize or take the action at a meeting at which all Shares entitled to vote thereon were present and voted. Prompt notice of the taking of the corporate action without a meeting by less than unanimous written consent shall be given to Shareholders who have not consented in writing
+
+5.12. Conduct of Meeting. At each meeting of Shareholders, a chair shall preside. In the absence of a specific selection by the Board, the chair shall be the Chairperson of the Board as provided in Section 7.1 of this Agreement. The chair shall determine the order of business and shall have the authority to establish rules for the conduct of the meeting that are fair to Shareholders. The chair of the meeting shall announce at the meeting when the polls close for each matter voted on. If no announcement is made, the polls shall be deemed to have closed on the meeting’s final adjournment. After the polls close, no ballots, proxies, or votes, or any revocations or changes to them, may be accepted. 
+
+5.13. Inspectors of Election.  The Board, or the chair presiding at any Shareholders’ meeting, may appoint one or more inspectors. If appointed, the inspectors shall determine the number of Shares outstanding and the voting power of each, the Shares represented at the meeting, the existence of a quorum, and the validity and effect of proxies, and shall receive votes, ballots, or consents, hear and determine challenges or consents, determine the result, and do such acts as are proper to conduct the election or vote with fairness to all Shareholders. On request of the person presiding at the meeting, the inspectors shall make and execute a written report to the person presiding at the meeting of any of the facts found by them and matters determined by them. The report shall be prima facie evidence of the facts stated and of the vote as certified by the inspectors.
+
+5.14. Founder’s Veto.  Until December 31, 2030, the Founder shall retain the right to veto any decision of the Shareholders that shall affect the rights and responsibilities of the Founder under this Agreement. Beginning on January 1, 2031, any decision of the Shareholders that affects the rights and responsibilities of the Founder shall require Super Majority of the Board.
+
+5.15. Electronic Meetings and Voting.  
+
+5.15.1. Electronic Meetings.  Notwithstanding anything to contrary in this Article V, the Company may, at the discretion of the Board, conduct any Shareholders' meeting (whether annual or special) electronically, through a virtual meeting application, platform, or other electronic means that allow all Shareholders participating in the meeting to hear and be heard, regardless of their physical location. Shareholders may participate in such meetings via video conference, audio conference, or any other electronic medium approved by the Board, provided that the platform facilitates real-time communication and the ability for Shareholders to express their views. For purposes of a quorum for an electronic meeting, a vote shall be taken consistent with Section 5.15.2 at the beginning of the meeting that shall require the affirmative vote by the required number of shareholder votes as set forth in Section 5.7.
+
+5.15.2. Blockchain-Based Voting.  In the event of a Shareholder vote, the Company may utilize a blockchain-based voting system or any similar distributed ledger technology application or platform (the “Voting Platform”) to enable secure, transparent, and verifiable voting by Shareholders in real-time. Voting via the Voting Platform shall be available to all Shareholders participating in the meeting electronically. The Voting Platform will:
+
+5.15.2.1. Provide Shareholders with a unique identification or digital token to authenticate their identity and eligibility to vote.
+
+5.15.2.2. Enable Shareholders to cast votes on proposed matters securely and privately.
+
+5.15.2.3. Ensure that each vote is recorded in a manner that can be publicly verified, ensuring transparency and accuracy.
+
+5.15.2.4. Enable Shareholders to vote in real-time during the meeting, subject to the voting deadlines as set forth in the notice of the meeting.
+
+
+ARTICLE VI – BOARD OF DIRECTORS
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+6.1. Composition of the Board of Directors.  The business and affairs of the Company shall be managed by the Board of Directors. The Directors need not be residents of the State of Michigan or Shareholders of the Company. The Board shall consist of five (5) members made up as follows:
+
+6.1.1. One (1) seat reserved for the Founder until his voting power falls below ten percent (10%) of all authorized and issued Shares of the Company (“the 10% Trigger”). Upon the occurrence of the 10% Trigger, the Founder’s seat on the Board shall be determined pursuant to Section 6.1.2 below.
+
+6.1.2. One (1) seat to be elected by the Class A Shareholders until the occurrence of the 10% Trigger upon which time two (2) seats shall be elected by the Class A Shareholders.
+
+6.1.3. One (1) seat to be elected by the Class B Shareholders.
+
+6.1.4. Two (2) seats to be reserved for external advisors to be appointed by the Founder. After the occurrence of the 10% Trigger, the two (2) seats reserved for external advisors shall be appointed by a Simple Majority vote of the Board.
+
+6.2. Election, Resignation, and Removal.  Unless otherwise provided in the Articles, Class A Directors and Class B Directors shall be elected at each annual Shareholders meeting, by a plurality of all votes cast, each elected Director to hold office until the next annual Shareholders meeting and until the Director’s successor is elected and qualified, or until the Director’s resignation or removal. A Director may resign by written notice to the Company. The resignation is effective on its receipt by the Company or at a subsequent time as set forth in the notice of resignation. Unless otherwise provided in the Articles or by applicable law, any Director or the entire Board (other than the Founder) may be removed, with or without cause, by a Simple Majority of the votes cast by the holders of Shares entitled to vote on the specific Board seat, unless a greater vote is required by the Articles or by the laws of the State of Michigan.
+
+6.3. Vacancies.  Vacancies in the Board occurring by reason of death, resignation, removal, increase in the number of Directors, or otherwise shall be filled consistent with Section 6.1 herein or, if Section 6.1 does not fill the seat by its own accord, by the affirmative vote of a Simple Majority of the remaining Directors though less than a quorum of the Board may be present, unless and until filled by proper action of the Shareholders of the Company. Unless otherwise provided in the Articles or elsewhere in this Agreement, each person so elected shall be a Director for a term of office continuing only until the next election of Directors by the Shareholders or appointment of Directors consistent with Section 6.1. A vacancy that will occur at a specific date, by reason of a resignation effective at a later date or otherwise, may be filled before the vacancy occurs, but the newly elected Director may not take office until the vacancy occurs.
+
+6.4. Annual Meeting.  The Board shall meet each year immediately after the annual meeting of the Shareholders, or within three days of such time, excluding Sundays and legal holidays, if the later time is deemed advisable, at the place where the Shareholders meeting has been held or any other place that the Board may determine or by remote communication, for the purpose of electing Officers and considering such business that may properly be brought before the meeting; provided that, if less than a Simple Majority of the Directors appear for an annual meeting of the Board, the holding of the annual meeting shall not be required and the matters that might have been taken up in it may be taken up at any later regular, special, or annual meeting, or by consent resolution.
+
+6.5. Regular and Special Meetings.  Regular meetings of the Board may be held at the times and places (or by remote communication) that the Simple Majority of the Directors may from time to time determine at a prior meeting or as shall be directed or approved by the vote or written consent of all the Directors. Special meetings of the Board may be called by the Chairperson of the Board (if the office is filled) or the President and shall be called by the President or Secretary on the written request of any two Directors.
+
+6.6. Notices.  No notice shall be required for annual or regular meetings of the Board or for adjourned meetings, whether regular or special. Three days’ written notice, 24-hour telephonic notice, or 24-hour notice by electronic communication shall be given for special meetings of the Board, and the notice shall state the time, place, and purpose or purposes of the meeting. Notice of the time, place, and purpose of any meeting of the Board may be waived by a Director either before or after the meeting. Attendance of a person at any Board meeting, in person or remotely, constitutes a waiver of notice of the meeting unless the Director at the beginning of the meeting objects to the meeting or the transacting of business at the meeting and does not thereafter vote for or assent to any action taken at the meeting.
+
+6.7. Quorum.  A Simple Majority of the Board then in office constitutes a quorum for the transaction of business. The vote of a Simple Majority of the Directors present at any meeting at which there is a quorum constitutes the action of the Board, except when a larger vote may be required by the laws of the State of Michigan. A member of the Board may participate in a meeting by conference telephone or other means of remote communication through which all persons participating in the meeting can communicate with each other. Participation in a meeting in this manner constitutes presence in person at the meeting.
+
+6.8. Dissents.  A Director who is present at a meeting of the Board at which action on a corporate matter is taken, is presumed to have concurred in that action unless the Director’s dissent is entered in the minutes of the meeting or unless the Director files a written dissent to the action with the person acting as secretary of the meeting before the adjournment of it or forwards the dissent by certified mail or email to the Secretary of the Company promptly after the adjournment of the meeting. The right to dissent does not apply to a Director who voted in favor of the action. A Director who is absent from a meeting of the Board at which any such action is taken, is presumed to have concurred in the action unless he or she files a written dissent with the Secretary of the Company within a reasonable time after the Director has knowledge of the action.
+
+6.9. Deadlock.  In the event that the Directors reach a deadlock, the issue shall be brought before a third party chosen by the Directors.  The third party’s decision shall be binding.  In the event that the Directors cannot agree on a third party, each of the Directors shall make a list of five (5) third party candidates in order of preference.  The third party shall be the most preferred candidate that appears most often on the Directors’ lists.  In the event that the Directors cannot agree on a third party based on the list of five (5) third party candidates, the accountant for the Company, at the time of the deadlock, shall choose a third party, which may or may not be a person on any list prepared by the Directors.
+
+6.10. Action Without a Meeting.  Any action required or permitted by the Act to be taken at an annual or special meeting of the Board may be taken without a meeting, without prior notice and without a vote, if a consent in writing, setting forth the action so taken, is signed by the Board having not less than the minimum number of votes that would be necessary to authorize or take the action at a meeting at which all Directors entitled to vote thereon were present and voted. Prompt notice of the taking of the corporate action without a meeting by less than unanimous written consent shall be given to the Directors who have not consented in writing.  
+
+6.11. Duties of the Board of Directors.  For the avoidance of doubt and not by way of limitation, the Board shall be authorized to take each of the following actions:
+
+6.11.1. Appoint and terminate Officers;
+
+6.11.2. Approve dividends and other distributions;
+
+6.11.3. Approve new shares being authorized;
+
+6.11.4. Approve new Class A Subgroups;
+
+6.11.5. Adopt an agreement or plan of merger, consolidation, or share exchange;
+
+6.11.6. Recommend to the Shareholders the sale, lease, or exchange of all or substantially all of the Company’s property and assets;
+
+6.11.7. Recommend to the Shareholders a dissolution of the Company or revocation of a dissolution; and
+
+6.11.8. Fill vacancies in the Board;
+
+6.12. The Founder’s Veto Power.  Notwithstanding anything to the contrary contained in this Agreement, the Founder shall retain an additional Founder Veto Power defined as follows:
+
+6.12.1. From the inception of the Company until December 31, 2030, the Founder shall have the right to veto any decision of the Board by providing written notice of the Founder’s exercising of the Veto Power within thirty (30) days of learning of the decision made by the Board.
+
+6.12.2. From January 1, 2031 until December 31, 2035, the Founder shall have the right to veto any decision of the Board that relates to (i) the appointment and termination of Officers of the Company, (ii) Mergers & Acquisitions, (iii) Dissolution of the Company, (iv) the addition of new Classes of Shares, (v) the authorization of new Shares, and (vi) changes to the Board’s governance polices, by providing written notice of the Founder’s exercising of the Veto Power within thirty (30) days of learning of the decision made by the Board.
+
+6.12.3. Beginning January 1, 2036, the Founder’s Veto Power shall become null and void and of no further force or effect.
+
+6.12.4. Upon the occurrence of any of the following events, the Founder Veto Power shall automatically terminate and become null and void: (i) the 10% Trigger, (ii) Upon the Company raising more than $10 million dollars in external capital, or (iii) Upon the Founder’s resignation from an executive role at the Company.
+
+6.13. Compensation.  The Board, by affirmative vote of a Simple Majority of Directors in office and irrespective of any personal interest of any of them, may establish reasonable compensation of Directors for services to the Company as Directors or Officers. Nothing in this Agreement shall be construed to preclude any Director from serving the Company in any other capacity and receiving compensation for it.
+
+6.14. Subcommittees of the Board.  The Board shall have the authority to create, from time to time, such subcommittees as it deems necessary or appropriate to assist in the discharge of its duties. Each subcommittee shall be composed of one or more Directors, and the Board may designate the powers, duties, and responsibilities of any subcommittee it creates, provided that no subcommittee shall have the authority to take action or make decisions on behalf of the full Board unless expressly authorized by the Board in its resolution creating the subcommittee. The Founder shall retain his Founder Veto Power described in Section 6.12 over any decisions or actions taken by any subcommittee formed by the Board.
+
+
+ARTICLE VII – OFFICERS OF THE COMPANY
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+7.1. Number.  The Board shall elect or appoint a President, a Secretary, and a Treasurer, and may select a Chairperson of the Board and one or more Vice Presidents, Assistant Secretaries, Assistant Treasurers, and other Officers as it shall deem appropriate. The President and Chairperson of the Board, if any, shall be members of the Board. Any two or more of the preceding Offices, except those of President and Vice President, may be held by the same person. No Officer shall execute, acknowledge, or verify an instrument in more than one capacity if the instrument is required by law, the Articles, or this Agreement to be executed, acknowledged, or verified by two or more Officers.
+
+7.2. Term of Office, Resignation, and Removal.  An Officer shall hold office for the term for which he or she is elected or appointed and until his or her successor is elected or appointed and qualified, or until his or her resignation or removal. An Officer may resign by written notice to the Company. The resignation is effective on its receipt by the Company or at a subsequent time specified in the notice of resignation. An Officer may be removed by the Board with or without cause at any time. The removal of an Officer shall be without prejudice to his or her contract rights, if any. The election or appointment of an Officer does not of itself create contract rights.
+
+7.3. Salaries.  The salaries of all Officers of the Company shall be fixed by the Board.
+
+7.4. Vacancies.  The Board shall fill any vacancies in any office occurring for whatever reason.
+
+7.5. Authority.  All Officers, employees, and agents of the Company shall have the authority and perform the duties to conduct and manage the business and affairs of the Company that may be designated by the Board and this Agreement.
+
+
+ARTICLE VIII - DUTIES OF OFFICERS
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+8.1. Chairperson of the Board.  The Chairperson of the Board, if the office is filled, shall be the Chief Executive Officer of the Company and shall preside at all meetings of the Shareholders and of the Board at which the Chairperson is present. The Chairperson shall see that all orders and resolutions of the Board are carried into effect and shall have the general powers of supervision and management usually vested in the chief executive officer of a corporation, including the authority to vote all securities of other corporations and business organizations that are held by the Company.
+
+8.2. President.  If the office of Chairperson of the Board is filled, the President shall be the Chief Operating Officer of the Company and shall have the general powers of supervising and managing the day-to-day operations of the Company. In the absence or disability of the Chairperson of the Board, or if that office has not been filled, the President also shall perform the duties and execute the powers of the Chairperson of the Board as set forth in this Agreement.
+
+8.3. Vice Presidents.  The Vice Presidents, in order of their seniority, shall, in the absence or disability of the President, perform the duties and exercise the powers of the President and shall perform any other duties that the Board or the President may from time to time prescribe.
+
+8.4. Secretary.  The Secretary shall attend all meetings of the Board and Shareholders and shall record all votes and minutes of all proceedings in a book to be kept for that purpose; shall give or cause to be given notice of all meetings of the Shareholders and the Board; and shall keep in safe custody the seal of the Company, if any, and, when authorized by the Board, affix it to any instrument requiring it, and when so affixed it shall be attested to by the signature of the Secretary or by the signature of the Treasurer or an Assistant Secretary. The Secretary may delegate any of the duties, powers, and authorities of the Secretary to one or more Assistant Secretaries, unless the delegation is disapproved by the Board.
+
+8.5. Treasurer.  The Treasurer shall have the custody of the corporate funds and securities, shall keep full and accurate accounts of receipts and disbursements in the books of the Company, and shall deposit all moneys and other valuable effects in the name and to the credit of the Company in the depositories that may be designated by the Board. The Treasurer shall render to the President and Directors, whenever they may require it, an account of his or her transactions as treasurer and of the financial condition of the Company. The Treasurer may delegate any of his or her duties, powers, and authorities to one or more Assistant Treasurers unless the delegation is disapproved by the Board.
+
+8.6. Assistant Secretaries and Treasurers.  The Assistant Secretaries, in order of their seniority, shall perform the duties and exercise the powers and authorities of the Secretary in case of the Secretary’s absence or disability. The Assistant Treasurers, in the order of their seniority, shall perform the duties and exercise the powers and authorities of the Treasurer in case of the Treasurer’s absence or disability. The Assistant Secretaries and Assistant Treasurers shall also perform the duties that may be delegated to them by the Secretary and Treasurer, respectively, and also the duties that the Board may prescribe.
+
+
+ARTICLE IX – ROADMAP OF THE COMPANY
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+9.1. The roadmap for the development of the Company and the launch of the Company’s initial software shall be in accordance with Exhibit B, which may be amended by the Board from time to time consistent with this Agreement. It is the goal of the Parties for the Company’s initial software to be fully launched by December 31, 2029, or sooner. However, the Parties agree that the Company’s initial software will not be rolled out too soon in the opinion of a majority of votes of the Shareholders. It is the Parties’ shared philosophy to forego early returns from a subpar program in exchange for greater returns with a fully workable program.
+
+
+ARTICLE X – TRANSFERS OF SHARES
+	
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+10.1. Restriction on Transfer of Shares.  
+
+10.1.1. Restriction on Transfer.  No Shareholder (the “Transferring Shareholder”) shall sell, assign, transfer, pledge, encumber, or otherwise dispose of any Shares in the Company (collectively, “Transfer”) except in accordance with the terms and conditions set forth in this Agreement. Any purported Transfer of shares in violation of this Agreement shall be null and void and shall not be recognized by the Company.
+
+10.1.2. Permitted Transfers.  Notwithstanding the restriction in Section 10.1.1, a Transferring Shareholder may Transfer shares only in the following circumstances (each, a “Permitted Transfer”):
+
+10.1.2.1. To another Shareholder of the Company,
+
+10.1.2.2. From any Class of Shares to Class B Shares or Class C Shares,
+
+10.1.2.3. To a family member or trust, provided that the transferee agrees in writing to be bound by the terms of this Agreement,
+
+10.1.2.4. Pursuant to the exercise of the Right of First Refusal under this Agreement, or
+
+10.1.2.5. As otherwise expressly permitted by the Board or in accordance with a specific provision of this Agreement (e.g., Drag-Along Rights or Tag-Along Rights).
+
+10.1.3. Prohibited Transfers.  Any Transfer of shares not constituting a Permitted Transfer, including any transfer to a third party not otherwise authorized by this Agreement, shall be prohibited.
+
+10.1.4. Transfer Procedures.  To effectuate any Transfer that is permitted under this Agreement, the Transferring Shareholder shall provide written notice to the Company and the other Shareholders at least ten (10) days prior to the proposed Transfer, specifying the number of Shares to be transferred, the identity of the transferee, and the terms and conditions of the Transfer.
+
+10.1.5. Involuntary Transfers.  In the event that any Transfer of Shares occurs by operation of law (e.g., by will, intestate succession, or bankruptcy), the transferee of such Shares shall be required to comply with all applicable provisions of this Agreement. If the transferee is not an individual or entity eligible to hold Shares under the Company’s governing documents or this Agreement, such transfer shall be void.
+
+10.1.6. Consequences of Unauthorized Transfer.  If any Transfer is made in violation of this Section 10.1, the Company shall have the right, but not the obligation, to repurchase the Shares from the transferee at the price paid by the Transferring Shareholder, and, regardless of if the Company repurchases the Shares, such transferee shall not be entitled to any non-monetary rights associated with ownership of the Shares.
+
+10.2. Conversion of Shares Upon Transfer.  Any transfer of Shares by a Shareholder of any Class of Shares, excluding the Founder, not made to a trust under Section 10.1.2.3 shall automatically convert the Shares to Class B Shares or Class C Shares at the option of the transferee. If no election is made, the Shares shall be Class B Shares.
+
+10.3. Right of First Refusal.  
+
+10.3.1. Offer to Sell Shares.  If	 any Shareholder (the “Selling Shareholder”) desires to sell, transfer, or otherwise dispose of any of their shares in the Company (the “Offered Shares”) to any third party (the “Proposed Transferee”), the Selling Shareholder shall first offer the Offered Shares (i) to the Founder, (ii) to the Company, and (iii) the other Shareholders of the Company in accordance with the terms and conditions set forth in this Section 10.3.
+
+10.3.2. Notice of Intent to Sell.  Before selling the Offered Shares to a Proposed Transferee, the Selling Shareholder shall deliver a written notice (the “Notice”) to the Founder, the Company, and the other Shareholders, specifying: (i) the number of Offered Shares, (ii) the name of the Proposed Transferee, (iii) the proposed price per Share, and (iv) the terms and conditions of the proposed sale, including the proposed closing date (the “Offer Notice”).
+
+10.3.3. Exercise of Right of First Refusal.  Upon receipt of the Offer Notice, the Founder, the Company, and the other Shareholders, in that order, shall have the right to purchase the Offered Shares, in whole or in part, on the same terms and conditions as those offered by the Proposed Transferee. The Founder, the Company, and the other Shareholders shall have thirty (30) days from the date of receipt of the Offer Notice (the “ROFR Period”) to notify the Selling Shareholder in writing of their intent to exercise the Right of First Refusal (the “Exercise Notice”).
+
+10.3.4. Allocation of Right of First Refusal.  If more than one Shareholder elects to exercise the Right of First Refusal, the Offered Shares shall be allocated to the Founder, then to the Company, and then to the other Shareholders exercising their right, in proportion to the number of shares held by each Shareholder relative to the total number of shares held by all Shareholders electing to exercise the Right of First Refusal. If the Founder or the Company is exercising the Right of First Refusal, the Founder and then the Company shall have the right to purchase the Offered Shares before the Shareholders exercise their rights.
+
+10.3.5. Price and Terms of Sale.  The price at which the Offered Shares may be purchased under the Right of First Refusal shall be the price per Share specified in the Offer Notice. If the terms of the sale include other considerations or conditions, those terms shall be applicable to the purchase of the Offered Shares by the Company or the exercising Shareholders.
+
+10.3.6. Failure to Exercise Right.  If the Company and the other Shareholders do not exercise their Right of First Refusal within the ROFR Period, the Selling Shareholder may sell the Offered Shares to the Proposed Transferee on the terms and conditions specified in the Offer Notice, provided that such sale is completed within sixty (60) days after the expiration of the ROFR Period. If the Selling Shareholder does not complete the sale within such period, the Right of First Refusal shall apply again before the Shares may be sold.
+
+10.3.7. Exemptions.  The Right of First Refusal in this Section 10.3 shall not apply to any of the following:
+
+10.3.7.1. Transfers of shares to immediate family members, affiliates, or a trust for the benefit of the Shareholder,
+
+10.3.7.2. Transfers by will or intestate succession,
+
+10.3.7.3. Transfers made by operation of law, or
+
+10.3.7.4. Transfers approved by the Board.
+
+10.3.8. Closing of Sale.  The closing of any sale of the Offered Shares to the Founder, the Company, or the other Shareholders shall take place at a time and place mutually agreed upon by the parties, but in no event later than thirty (30) days after the Exercise Notice has been delivered, or such later date as the parties may mutually agree. The purchase price for the Offered Shares shall be paid in full at the closing by wire transfer of immediately available funds to the account designated by the Selling Shareholder.
+
+10.4. Drag-Along Rights.  
+
+10.4.1. The Drag-Along Right.  In the event that Shareholders entitled to cast at least seventy percent (70%) of the votes of all outstanding Shares of the Company entitled to vote (“the Majority Shareholders”) wish to sell all or substantially all of their Shares to a third party (the “Buyer”) on terms and conditions acceptable to the Majority Shareholders, the Majority Shareholders shall have the right to require all other Shareholders (the “Minority Shareholders”) to sell and transfer all of their shares to the Buyer, on the same terms and conditions as those agreed by the Majority Shareholders, in accordance with the provisions of this clause (the “Drag-Along Right”).
+
+10.4.2. Notice of Drag-Along Right.  The Majority Shareholders shall notify the Minority Shareholders in writing of their intention to exercise the Drag-Along Right, providing details of the proposed sale, including the identity of the Buyer, the terms and conditions of the sale, and the proposed price (the “Drag-Along Notice”). The Minority Shareholders shall be required to sell their shares on the same terms and conditions set forth in the Drag-Along Notice.
+
+10.4.3. Sale Process.  The Minority Shareholders agree to execute and deliver all necessary documents, and take all reasonable actions, to effectuate the sale of their shares, including cooperating with the Majority Shareholders and the Buyer in completing the sale. The Buyer shall pay the agreed consideration for the Shares held by both the Majority Shareholders and the Minority Shareholders, in accordance with the terms specified in the Drag-Along Notice.
+
+10.4.4. Binding Effect. The Drag-Along Right shall be binding on all Shareholders of the Company, and in the event the Majority Shareholders exercise the Drag-Along Right, the Minority Shareholders shall be obligated to sell their shares to the Buyer.
+
+10.4.5. Conditions.  The Drag-Along Right shall only be exercised if the proposed transaction meets the following conditions: (i) the Buyer agrees to purchase all the Shares of the Company, (ii) the terms of the sale, including the price per Share, are favorable to the Minority Shareholders, and (iii) the sale is structured in a manner that provides the Minority Shareholders with the same or better treatment as the Majority Shareholders.
+
+10.5. Tag-Along Rights.  
+
+10.5.1. The Tag-Along Right.  In the event that one or more Shareholders (the “Selling Shareholders”) propose to sell or transfer all or any part of their Shares in the Company amounting to more than fifty percent (50%) of all Shares issued and outstanding in the Company (the “Sale Shares”) to a third party (the “Buyer”), each other Shareholder (the “Non-Selling Shareholders”) shall have the right, but not the obligation, to sell and transfer a proportion of their Shares to the Buyer on the same terms and conditions as those offered to the Selling Shareholders, in accordance with the provisions of this clause (the “Tag-Along Right”).
+
+10.5.2. Exercise of Tag-Along Right.  The Selling Shareholders shall notify the Non-Selling Shareholders in writing of the proposed sale, including details of the Buyer, the price, the terms of the sale, and the number of shares to be sold (the “Sale Notice”). The Non-Selling Shareholders shall have thirty (30) days from the date of receipt of the Sale Notice to elect to exercise their Tag-Along Right by delivering a written notice to the Selling Shareholders, specifying the number of shares they wish to sell to the Buyer.
+
+10.5.3. Allocation of Sale Shares.  If the Non-Selling Shareholders elect to exercise their Tag-Along Right, each Non-Selling Shareholder shall be entitled to sell a number of shares equal to the ratio of (i) the total number of shares held by the Non-Selling Shareholder to (ii) the total number of shares held by all Non-Selling Shareholders (excluding the Selling Shareholders), multiplied by the total number of Sale Shares to be sold by the Selling Shareholder(s).
+
+10.5.4. Sale Process.  The Selling Shareholder shall use commercially reasonable efforts to facilitate the participation of the Non-Selling Shareholders in the sale to the Buyer. The sale shall be completed on the same terms and conditions as those offered to the Selling Shareholders, and the Non-Selling Shareholders shall receive the same consideration per Share as the Selling Shareholders.
+
+10.5.5. Failure to Exercise Tag-Along Right.  If any Non-Selling Shareholder does not exercise their Tag-Along Right within the specified period, the Selling Shareholders may proceed with the sale to the Buyer on the same terms as stated in the Sale Notice, and the Non-Selling Shareholders will not be entitled to participate in the sale.
+
+10.6. The Company’s Share Buyback Right.
+
+10.6.1. Definition of Problematic Shareholder.  For purposes of this Section 10.6, a “Problematic Shareholder” is a Shareholder who:
+
+10.6.1.1. Has materially breached any provision of this Agreement or the Company’s governing documents;
+
+10.6.1.2. Engages in conduct that is detrimental to the Company’s business, reputation, or operations, including but not limited to acts of dishonesty, fraud, or illegal activities;
+
+10.6.1.3. Is found by the Board to be in violation of applicable laws or regulations that have a material adverse effect on the Company or its operations;
+
+10.6.1.4. Is the subject of any legal or regulatory actions that, in the Board’s reasonable judgment, could jeopardize the Company’s standing, licenses, or business activities;
+
+10.6.1.5. Has failed to fulfill obligations related to capital contributions, or is otherwise in default under any agreement with the Company;
+
+10.6.1.6. Or whose ownership of Shares, in the sole discretion of the Board, would be harmful to the interests of the Company or its Shareholders.
+
+10.6.2. Board’s Right to Initiate Buyback of Shares.  In the event that a Shareholder is determined by the Board to be a Problematic Shareholder, the Board shall have the right, but not the obligation, on behalf of the Company, to repurchase all or any portion of such Shareholder’s Shares at a price determined pursuant to the terms of this Section 10.6.
+
+10.6.3. Repurchase Price.  The price at which the Company may repurchase the Shares of a Problematic Shareholder shall be determined in accordance with Section 13.1 of this Agreement. Notwithstanding the foregoing, the Board may apply a discount to the price based on the circumstances surrounding the Shareholder’s conduct or breach, such discount to be determined by the Board in its sole discretion.
+
+10.6.4. Notice of Repurchase.  Upon determining that a Shareholder is a Problematic Shareholder, the Board shall provide written notice to the Shareholder, stating the Board’s decision to repurchase the Shares and the proposed repurchase price. The Shareholder shall have fifteen (15) days from the date of such notice to accept the offer and complete the transfer of Shares to the Company.
+
+10.6.5. Payment for Shares.  The Company shall pay for the Shares repurchased under this Section 10.6 in cash or, at the discretion of the Company, in a combination of cash and promissory note, payable in accordance with the terms agreed upon by the Board and the Shareholder, provided that such payment terms shall not exceed one (1) year from the date of repurchase.
+
+10.6.6. Right to Terminate or Delay Buyback.  The Company shall have the right to terminate or delay the buyback of Shares at any time prior to the closing of the repurchase transaction. Any termination or delay shall be communicated to the Problematic Shareholder in writing, and the Company shall have no further obligation with respect to the repurchase after such termination or delay.
+
+10.6.7. Transfer of Shares.  Upon completion of the repurchase transaction, the Shares of the Problematic Shareholder shall be canceled or returned to the treasury of the Company, and the Shareholder’s interest in the Company shall be terminated to the extent of the repurchased Shares.
+
+10.6.8. Governing Law and Dispute Resolution.  Any disputes arising under this Section 10.6 shall be resolved in accordance with the dispute resolution procedures set forth in Article XI.
+
+10.7. Life Insurance for the Founder.
+
+10.7.1. Requirement for Life Insurance Policy.  The Company shall, at its own expense, maintain a life insurance policy (the “Policy”) on the life of the Founder in the amount of [specify amount] (the “Insured Amount”), with the Company named as the primary beneficiary. The Company may, at its discretion, adjust the amount of coverage based on changes in the value or needs of the business, with prior consent from the Founder, which consent shall not be unreasonably withheld.
+
+10.7.2. Ownership and Control of Policy.  The Company shall be the sole owner and beneficiary of the Policy. The Company shall have the right to borrow against or otherwise utilize the Policy as collateral if necessary, subject to the provisions of this Agreement.
+
+10.7.3. Payment of Premiums.  The Company shall be responsible for paying all premiums and costs associated with maintaining the Policy. The Company shall ensure that premiums are paid in a timely manner to keep the Policy in force.
+
+10.7.4. Proceeds of Insurance.  In the event of the death of the Founder, the Company shall receive the death benefit proceeds under the Policy (the “Proceeds”). The Proceeds shall be used by the Company to offset any financial loss resulting from the Founder’s death, including but not limited to, hiring and training a replacement, covering business disruptions, or compensating Shareholders for the loss of the Founder. The Proceeds may also be used to redeem Shares held by the Founder, if applicable, as set forth in the buy-sell provisions of this Agreement.
+
+10.7.5. Buy-Sell Agreement Trigger.  In the event of the death of the Founder, the Proceeds from the Policy may be used by the Company to fund the repurchase of the Founder Shares, as provided in the Buy-Sell Agreement, if applicable. The Company shall offer to purchase the Shares of the deceased Founder (or the Founder’s estate) under the terms outlined in the Buy-Sell Agreement, and the Proceeds from the Policy may be used for such purchase. The Founder’s estate shall not be obligated to sell under this provision.
+
+10.7.6. Notification and Cooperation.  The Company and the Founder agree to cooperate fully in the application and maintenance of the Policy, including the provision of any necessary medical information and consent. The Company shall notify the Founder of any material changes to the Policy, including but not limited to, any lapse or cancellation.
+
+10.7.7. Renewal and Review.  The Company shall review the adequacy of the life insurance coverage periodically, at least once every three (3) years, to ensure that the coverage is sufficient to meet the Company’s needs in the event of the Founder’s death.
+
+10.7.8. Termination of Coverage.  In the event that the Founder ceases to be employed by or associated with the Company, or in the event of the Founder’s retirement, the Company may terminate the Policy. In such a case, any remaining cash value in the Policy may be distributed to the Founder or his estate, if applicable, in accordance with the terms of the Policy.
+
+
+ARTICLE XI – DISPUTE RESOLUTION
+
+11. 
+11.1. Governing Law and Jurisdiction.  This Agreement shall be governed by, construed, and enforced in accordance with the laws of the State of Michigan. Jurisdiction shall be in the state or federal courts in the State of Michigan.
+
+11.2. Negotiation and Mediation.  In the event of any dispute, claim, or controversy arising out of or in connection with this Agreement, Shareholders agree to attempt to resolve the matter amicably through good faith negotiations. If such negotiations do not resolve the dispute within thirty (30) days from the date the dispute is notified in writing, the parties shall proceed to mediation.
+
+11.3. Mediation.  The parties agree to submit the dispute to mediation, to be conducted in Saginaw, Michigan, or such other location as is mutually agreeable to all parties. The mediation shall be conducted by a neutral third-party mediator appointed by mutual agreement of the parties. If the parties fail to agree on the appointment of a mediator within fourteen (14) days, the mediator shall be appointed by the Board. The mediation shall be non-binding.
+
+11.4. Arbitration.  If the dispute is not resolved through mediation within sixty (60) days from the date of the mediation request, the dispute shall be referred to and finally resolved by arbitration but only if all parties agree both (i) to binding arbitration and (ii) on the arbitrator. If arbitration occurs it shall be conducted in accordance with the American Arbitration Association and shall occur in Saginaw, Michigan.
+
+11.5. Binding Decision.  The decision of the arbitrator(s) shall be final and binding on the parties. Judgment upon the award rendered by the arbitrator(s) may be entered in any court having jurisdiction over the party against whom enforcement is sought.
+
+11.6. Court.  If, after mediation, the parties cannot agree to attend arbitration or on the arbitrator, either party shall be entitled to file an action with the state or federal courts. If such suit is filed, jurisdiction shall solely rely in either the Saginaw County, Michigan courts if filed in state court, or with United States Eastern District Court of Michigan, Northern Division, sitting in Bay City, Michigan.
+
+11.7. Costs.  During any dispute, each party shall bear its own costs associated with the dispute resolution process, including the costs of legal representation. The costs of the mediator and arbitrator(s) shall be borne equally by the parties unless the arbitrator(s) decide otherwise. Upon resolution of a dispute, attorney fees shall be provided pursuant to Section 18.7 below.
+
+11.8. Interim Relief.  Notwithstanding the provisions of this Article IX, any party may seek interim or urgent relief from a competent court of law, including injunctive relief, in relation to the dispute while the dispute resolution process is ongoing.
+
+
+ARTICLE XII – PROPRIETARY RIGHTS AND NONDISCLOSURE AGREEMENT
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+12.1. Proprietary Rights.  All intellectual property, including but not limited to patents, trademarks, copyrights, designs, trade secrets, know-how, inventions, developments, software, and other proprietary rights (collectively “Proprietary Rights”) thar are created, conceived, developed, or reduced to practice by a Shareholder during the course of their engagement with the Company, either solely or in collaboration with others, and whether or not during working hours or on the Company premises, shall be the exclusive property of the Company.
+
+12.2. Assignment of Proprietary Rights.  Shareholders hereby assign to the Company all right, title, and interest in and to any such Proprietary Rights created or developed during their engagement with the Company. Shareholders agree to execute all necessary documents and take all actions required to perfect the Company’s ownership rights in the Proprietary Rights. Further, nothing in this Agreement grants Shareholders any rights, licenses, or interests in the Proprietary Rights, except as expressly set forth in this Agreement.
+
+12.3. Confidentiality.  Shareholders shall not directly or indirectly, disclose, divulge or make use, of outside their employment with the Company, whether in written or oral form and whether by private communications or by public address or publication, or otherwise, materials, computer programs or other confidential or proprietary information that has been obtained by or disclosed to Shareholders as a result of their employment with the Company. “Confidential information” shall include, but is not limited to, all Proprietary Rights as well as information relating to know-how, marketing, research, bidding methods, estimating, estimating techniques, customer contacts, pricing, computer software, manuals, financial information, client lists, prospective clients and their contact information, employee/contractor lists and information, and all matters defined as “trade secrets” under the Uniform Trade Secrets Act as adopted in Michigan or any case law interpreting the Act or any similar acts. In the event of a Shareholder’s breach or threatened breach of this provision, the Company shall be entitled to a preliminary restraining order and injunction, restraining and enjoining the Shareholder from an anticipated or further breach of this provision.
+
+In addition to or in lieu of the above, the Company may pursue all other remedies as allowed by law or in equity. Shareholders acknowledge and agree that (a) the confidential information identified herein is highly sensitive and valuable to the Company; (b) the Company is engaged in a highly competitive business whose success or failure depends largely on the development and use of the confidential information; and (c) Shareholders may acquire the confidential information while a Shareholder and or during their employment with the Company.
+
+
+ARTICLE XIII – VALUATION OF SHARES
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+13.1. Value Agreed by Board.  Unless a different price is stated in an offer to purchase or sell Shares, the value of the Shares of the Company shall be as agreed to by the Board on an annual basis at the Board’s annual meeting, or at such other time as the Board determines the value, divided by the total number of Shares outstanding. 
+
+
+ARTICLE XIV - INDEMNIFICATION
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+14.1. Shareholder, Director, and Officer Indemnification.  The Company shall indemnify to the fullest extent authorized or permitted by the Act, any Shareholder, Director, or Officer who is made or threatened to be made a party to any action, suit or proceeding, whether civil, criminal, administrative or investigative, by reason of the fact that such person is or was a Shareholder, Director, Officer, employee or agent of the Company or serves or served any other enterprise at the request of the Company, if that person acted in good faith and in a manner the person reasonably believed to be in or not opposed to the best interests of the Company or its Shareholders.  However, indemnification shall not be made for any claim, issue, or matter in which the person has been found liable to the Company. 
+
+14.2. Directors and Officers (D&O) Insurance.  The Company shall maintain Directors and Officers (D&O) Insurance at all times.
+
+
+ARTICLE XV – COMPLIANCE WITH SECURITIES LAWS
+
+14. 
+15. 
+15.1. Investment Representation.  Each Shareholder represents to all other Shareholders and to the Company that all Shares have been acquired for investment and not with a view to the sale or distribution thereof within the meaning of the Securities Act of 1933 as amended (“the Securities Act”); that he or she has no present intention of selling or otherwise disposing of any of the Shares for his own account and no one else has or will have a beneficial ownership in any of his Shares; and that he or she has been advised that the Shares have not been registered with the Securities and Exchange Commission and may not be offered, sold, or otherwise transferred except in compliance with the Securities Act.
+
+15.2. Covenant to Comply with Securities Laws.  By his or her acceptance of a certificate evidencing Shares of the Company, each Shareholder agrees that at no time shall any of the Shares be transferred in the absence of (a) an elective registration statement under the Securities Act and applicable state securities laws with respect to such Shares at such time, or (b) an opinion of counsel in form and substance satisfactory to the Company and their counsel, to the effect that the proposed transfer at such time will not violate the Securities Act or applicable state securities laws.
+
+
+ARTICLE XVI - GENERAL PROVISIONS
+
+16. 
+16.1. Checks, Drafts, Etc.  All checks, drafts or demands for money and notes of the Company shall be signed by such Officer or Officers or other person or persons as the Board may designate.
+
+16.2. Deposits.  All funds of the Company not otherwise employed shall be deposited from time to time to the credit of the Company in such banks, trust companies or other depositories as the Board may designate.
+
+16.3. Fiscal Year.  The fiscal year of the Company shall end on the 31st day of December of each year or such other date as shall be fixed by resolution of the Board.
+
+16.4. Corporate Seal.  The Board may adopt a corporate seal for the Company.  The corporate seal shall have inscribed thereon the name of the Company and the words “Corporate Seal, Michigan”.  The seal may be used by causing it or a facsimile thereof to be impressed or affixed or reproduced or otherwise.
+
+16.5. Records and Minutes.  The Company shall keep books and records of account and minutes of the proceedings of its Shareholders, Board and executive committee, if any.  The Company shall keep at its registered office or at the office of its transfer agent within or outside the State of Michigan records containing the names and addresses of all Shareholders, the number, class and series of Shares held by each and the dates when they respectively became holders of record thereof.  Any such books, records, or minutes may be in written form or in any other form capable of being converted into written form within a reasonable time.
+
+16.6. Reliance on Books and Records.  In discharging his or her duties, a Director or an Officer of the Company, when acting in good faith, may rely on information, opinions, reports, or statements, including financial statements and other financial data, if prepared or presented by any of the following:
+
+16.6.1. One or more Directors, Officers, or employees of the Company, or of a business organization under joint control or common control, whom the Director or Officer reasonably believes to be reliable and competent in the matters presented.
+
+16.6.2. Legal counsel, public accountants, engineers, or other persons as to matters the Director or Officer reasonably believes are within the person’s professional or expert competence.
+
+16.6.3. A committee of the Board of which he or she is not a member if the Director or Officer reasonably believes the committee merits confidence.
+
+A Director or Officer is not entitled to rely on the information set forth above if he or she has knowledge concerning the matter in question that makes reliance otherwise unwarranted.
+
+16.7. Shareholder Agreement Governs.  This Shareholder Agreement shall govern the internal affairs of the Company to the extent it is consistent with the Act and the Articles.  Nothing contained in this Agreement shall prevent the imposition by contract of greater voting, notice, or other requirements than those set forth in this Agreement.
+16.8. Pronouns.  Whenever in this Agreement words, including pronouns, are used in the masculine, they shall be read in the feminine or neuter whenever they would so apply, and vice versa, and words in this Agreement that are singular shall be read as plural whenever the latter would apply and vice versa.
+
+ARTICLE XVII – AMENDMENTS AND TERMINATION
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+17.1. Amendments.  This Shareholder Agreement may be amended or repealed, or a new agreement may be adopted, by action of either the Shareholders or the Board upon a Super Majority vote authorizing such change.  Further, the Shareholders, upon Super Majority vote, may from time to time specify particular provisions of this Agreement which shall not be altered or repealed by the Board.
+
+17.2. Termination.  Subject to Section 17.1, this Shareholder Agreement shall terminate only upon:
+
+17.2.1. Unanimous written consent of all Shareholders.
+
+17.2.2. Full liquidation or dissolution of the Company.
+
+17.2.3. The issuance of any Shares sold by means of a public offering that is required to be registered under the federal securities laws.
+
+
+ARTICLE XVIII – MISCELLANEOUS
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+18.1. Binding Effect.  This Agreement shall be binding upon the parties hereto and their heirs, legal representatives, executors, administrators, personal representatives, successors, assigns (subject to the provisions of this Agreement), and any other transferee and the spouse of any individual Shareholder.
+
+18.2. Shares Covered by this Agreement.  This Agreement shall apply to all Shares of the Company, regardless of the Class of Shares, that are now or hereafter registered in the Company’s records in the name of a Shareholder and to all Shares now or hereafter beneficially owned by a Shareholder pursuant to a trust under which the Shareholder is a beneficiary. This Agreement shall also apply to any stock options and any warrants, stock conversion privileges, or any other share rights actually or beneficially now or hereafter owned by a Shareholder, and all Shares or rights to Shares of any other corporation into which such Shares may be changed, or for which they may be exchanged, whether through reorganization, recapitalization, stock split-up, combinations of Shares, merger, or consolidation. Any Shares acquired by means of compensation, stock options, warrants, conversion privileges, or other right exercised subsequent to any sale or other Transfer pursuant to this Agreement shall be offered for sale at the same price and on the identical other terms as the other Shares owned or previously owned by the Shareholder acquiring such Shares.
+
+18.3. Remedies.  The parties hereto understand and agree that irreparable injury would be caused to the Shareholders and the Company by failure to comply with the terms of this Agreement; that in the event of any actual or threatened default in or breach of any of the provisions in this Agreement the party or parties who are aggrieved thereby shall have the right to specific performance and/or an injunction, as well as monetary damages and any other appropriate relief in law or in equity which may be granted by any court in the United States of America; and that all such rights and remedies shall be cumulative and non-exclusive. Time and strict performance are of the essence of this Agreement.
+
+18.4. Waiver.  A party’s failure to insist on compliance or enforcement of any provision of this Agreement shall not affect the validity or enforceability, or constitute a waiver of future enforcement, of that provision or of any other provision of this Agreement by that party or any other party.
+
+18.5. Severability.  The invalidity or unenforceability of any provision in the Agreement by judgment or court order shall not in any way affect the validity or enforceability of any other provision, and this Agreement shall be construed in all respects as if such invalid or unenforceable provision had never been in the Agreement.
+
+18.6. Entire Agreement.  The parties hereto expressly acknowledge that this Agreement constitutes the entire contract between the parties regarding ownership of Shares in the Company and that, unless otherwise provided in this Agreement, any other agreements or understandings, oral or written, of any nature with respect to such matters are hereby superseded and revoked.
+
+18.7. Attorney Fees.  In the event suit, arbitration, or other action (excluding mediation under Section 11.3), is brought to enforce or rescind any of the terms of this Agreement, or to resolve a dispute between parties to this Agreement, the prevailing party shall recover, and the losing party hereby agrees to pay, a reasonable attorney fee incurred in the suit, arbitration, or other action in the trial and in all appellate courts to be fixed by the court or the arbitrator(s).
+
+18.8. Counterparts.  This Agreement may be executed in any number of counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument. A counterpart may be delivered by facsimile or electronic mail (PDF or other electronic format), and such delivery shall be deemed to have the same legal effect as the delivery of an original signed counterpart. For the purposes of this Agreement, any signature executed and transmitted electronically (e.g., via email or an electronic signature platform) shall be deemed to be an original signature, and shall be valid and binding for all purposes.
+
+
+
+
+
+
+
+2
+
+
+
+
+
+

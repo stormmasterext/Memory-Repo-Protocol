@@ -1,0 +1,191 @@
+# Sheet: Settings Overview
+A1: Setting Name | B1: Setting Type | C1: Purpose | D1: Core Function | E1: Applies To | F1: Editable?
+A2: Voting Threshold | B2: Governance Rule | C2: Defines percentage needed for a proposal to pass | D2: Calculates majority or supermajority requirements | E2: All Share Classes | F2: Yes
+A3: Founder Override | B3: Special Provision | C3: Allows founder to override decisions under specified conditions | D3: Enables emergency control by founder | E3: Class A and B | F3: No
+A4: Class A Eligibility | B4: Share Class Rule | C4: Specifies requirements for sweat equity holders to qualify for Class A shares | D4: Filters applicants for Class A stock | E4: Class A | F4: Yes
+
+# Sheet: Shareholder Ledger
+A1: Shareholder Name | B1: Username (for app) | C1: Email | D1: Class of Shares | E1: Shares Owned | F1: Voting Power (%) | G1: Date Issued | H1: Vesting Schedule | I1: Notes
+A2: Gene Therrien | B2: genet | C2: gene@example.com | D2: Class A | E2: 10000 | F2: 90 | G2: 2024-01-01 | H2: Fully Vested | I2: Founder
+A3: Andrew Burry | B3: aburry | C3: andrew@example.com | D3: Class A | E3: 500 | F3: 10 | G3: 2025-05-01 | H3: 4-year vesting | I3: Pending onboarding
+
+# Sheet: Voting Logic
+A1: Proposal Type | B1: Required Class Participation | C1: Quorum Requirement | D1: Approval Threshold | E1: Override Rules | F1: Outcome Formula (if programmatic)
+A2: Standard Policy | B2: All Classes | C2: 60% | D2: >50% | E2: No | F2: sum(votes_for)/total_votes > 0.5
+A3: Amend Charter | B3: Class A Only | C3: 75% | D3: 2/3 majority | E3: Founder Override Possible | F3: sum(votes_for)/class_a_votes > 0.66
+A4: Elect Officer | B4: All Classes | C4: 50% | D4: Simple Majority | E4: No | F4: sum(votes_for)/total_votes > 0.5
+
+# Sheet: Class A Rules
+A1: Definition | B1: Eligibility Criteria | C1: Contribution Type | D1: Conversion Rights | E1: Exit Rights | F1: Voting Priority?
+A2: Long-term, sweat-equity-driven ownership class | B2: Significant non-monetary contribution | C2: Sweat Equity | D2: Convertible to Class B after exit | E2: Paid at book value or current market offer | F2: Yes
+
+# Sheet: Governance Simulation
+A1: Proposal Name | B1: Proposal Type | C1: Shareholder Vote | D1: Weight | E1: Result
+A2: Adopt AI Hiring Policy | B2: Standard Policy | C2: Yes, No | D2: 90,10 | E2: Passed
+A3: Rename Rainmaker | B3: Amend Charter | C3: Yes, Yes | D3: 90,10 | E3: Passed
+
+# Sheet: RM Treasury
+D3: Cap | E3: Undistributed | F3: Distributed | G3: Balance | H3: Outstanding Shares
+B4: Founder Shares | D4: 5100000 | FORMULA: E4 = =D4-F4 | FORMULA: F4 = ='Distro Totals'!C5 | FORMULA: G4 = =D4-F4 | FORMULA: H4 = =D4-G4
+A5: 1 | B5: Class A Shares | C5: Engineering & Development | FORMULA: D5 = =4900000/$A$14 | FORMULA: E5 = =D5-F5 | FORMULA: F5 = ='Distro Totals'!D5 | FORMULA: G5 = =D5-F5 | FORMULA: H5 = =D5-G5
+A6: 2 | C6: Product Management | FORMULA: D6 = =4900000/$A$14 | FORMULA: E6 = =D6-F6 | FORMULA: F6 = ='Distro Totals'!E5 | FORMULA: G6 = =D6-F6 | FORMULA: H6 = =D6-G6
+A7: 3 | C7: Marketing & Growth | FORMULA: D7 = =4900000/$A$14 | FORMULA: E7 = =D7-F7 | FORMULA: F7 = ='Distro Totals'!F5 | FORMULA: G7 = =D7-F7 | FORMULA: H7 = =D7-G7
+A8: 4 | C8: Sales & Business Development | FORMULA: D8 = =4900000/$A$14 | FORMULA: E8 = =D8-F8 | FORMULA: F8 = ='Distro Totals'!G5 | FORMULA: G8 = =D8-F8 | FORMULA: H8 = =D8-G8
+A9: 5 | C9: Customer Success & Support | FORMULA: D9 = =4900000/$A$14 | FORMULA: E9 = =D9-F9 | FORMULA: F9 = ='Distro Totals'!H5 | FORMULA: G9 = =D9-F9 | FORMULA: H9 = =D9-G9
+A10: 6 | C10: Legal & Compliance | FORMULA: D10 = =4900000/$A$14 | FORMULA: E10 = =D10-F10 | FORMULA: F10 = ='Distro Totals'!I5 | FORMULA: G10 = =D10-F10 | FORMULA: H10 = =D10-G10
+A11: 7 | C11: Finance & Accounting | FORMULA: D11 = =4900000/$A$14 | FORMULA: E11 = =D11-F11 | FORMULA: F11 = ='Distro Totals'!J5 | FORMULA: G11 = =D11-F11 | FORMULA: H11 = =D11-G11
+A12: 8 | C12: Operations & Strategy | FORMULA: D12 = =4900000/$A$14 | FORMULA: E12 = =D12-F12 | FORMULA: F12 = ='Distro Totals'!K5 | FORMULA: G12 = =D12-F12 | FORMULA: H12 = =D12-G12
+A13: 9 | C13: Partnerships & Ecosystem Development | FORMULA: D13 = =4900000/$A$14 | FORMULA: E13 = =D13-F13 | FORMULA: F13 = ='Distro Totals'!L5 | FORMULA: G13 = =D13-F13 | FORMULA: H13 = =D13-G13
+A14: 10 | C14: Human Resources & Talent Acquisition | FORMULA: D14 = =4900000/$A$14 | FORMULA: E14 = =D14-F14 | FORMULA: F14 = ='Distro Totals'!M5 | FORMULA: G14 = =D14-F14 | FORMULA: H14 = =D14-G14
+FORMULA: D15 = =SUM(D5:D14) | FORMULA: E15 = =D15-F15 | FORMULA: F15 = =SUM(F5:F14) | FORMULA: G15 = =D15-F15 | FORMULA: H15 = =D15-G15
+B16: Class B Share | FORMULA: D16 = =F16 | FORMULA: E16 = =D16 | FORMULA: F16 = ='Distro Totals'!N5 | FORMULA: G16 = =D16-F16 | FORMULA: H16 = =D16-G16
+B17: Class C Shares | FORMULA: D17 = =F17 | FORMULA: E17 = =D17 | FORMULA: F17 = ='Distro Totals'!O5 | FORMULA: G17 = =D17-F17 | FORMULA: H17 = =D17-G17
+FORMULA: D18 = =D17+D16+D15+D4 | FORMULA: E18 = =E17+E16+E15+E4 | FORMULA: F18 = =F17+F16+F15+F4 | FORMULA: G18 = =G17+G16+G15+G4 | FORMULA: H18 = =D18-G18
+B21: Share Price | C21: 1
+B22: Customer- | C22: StormMaster
+B23: Revenue | FORMULA: C23 = =StormMaster!K5
+B24: 3x Multiplier | FORMULA: C24 = =C23*3
+B25: Shares vrs value | FORMULA: C25 = =C24/H18
+
+# Sheet: Distro Totals
+FORMULA: D2 = ='RM Treasury'!B5
+FORMULA: C3 = ='RM Treasury'!B4 | FORMULA: D3 = ='RM Treasury'!C5 | FORMULA: E3 = ='RM Treasury'!C6 | FORMULA: F3 = ='RM Treasury'!C7 | FORMULA: G3 = ='RM Treasury'!C8 | FORMULA: H3 = ='RM Treasury'!C9 | FORMULA: I3 = ='RM Treasury'!C10 | FORMULA: J3 = ='RM Treasury'!C11 | FORMULA: K3 = ='RM Treasury'!C12 | FORMULA: L3 = ='RM Treasury'!C13 | FORMULA: M3 = ='RM Treasury'!C14 | FORMULA: N3 = ='RM Treasury'!B16 | FORMULA: O3 = ='RM Treasury'!B17
+B4: Total | FORMULA: C4 = ='RM Treasury'!D4 | FORMULA: D4 = ='RM Treasury'!D5 | FORMULA: E4 = ='RM Treasury'!D6 | FORMULA: F4 = ='RM Treasury'!D7 | FORMULA: G4 = ='RM Treasury'!D8 | FORMULA: H4 = ='RM Treasury'!D9 | FORMULA: I4 = ='RM Treasury'!D10 | FORMULA: J4 = ='RM Treasury'!D11 | FORMULA: K4 = ='RM Treasury'!D12 | FORMULA: L4 = ='RM Treasury'!D13 | FORMULA: M4 = ='RM Treasury'!D14 | FORMULA: N4 = ='RM Treasury'!D16 | FORMULA: O4 = ='RM Treasury'!D17
+B5: Distributed | C5: 0 | D5: 0 | E5: 0 | F5: 0 | G5: 0 | H5: 0 | I5: 0 | J5: 0 | K5: 0 | L5: 0 | M5: 0 | FORMULA: N5 = =SUM(N8:N23) | O5: 0
+B6: Remaining | FORMULA: C6 = =C4-C5 | FORMULA: D6 = =D4-D5 | FORMULA: E6 = =E4-E5 | FORMULA: F6 = =F4-F5 | FORMULA: G6 = =G4-G5 | FORMULA: H6 = =H4-H5 | FORMULA: I6 = =I4-I5 | FORMULA: J6 = =J4-J5 | FORMULA: K6 = =K4-K5 | FORMULA: L6 = =L4-L5 | FORMULA: M6 = =M4-M5 | FORMULA: N6 = =N4-N5 | FORMULA: O6 = =O4-O5
+B8: StormMaster | C8: 0 | FORMULA: N8 = =StormMaster!M5
+B9: Eugene Therrien | FORMULA: C9 = ='Eugene Therrien'!M4
+B10: Julie Klien | FORMULA: N10 = ='Julie Klien'!M6
+B11: Lindsay Pioletti
+B12: Andrew Lay
+
+# Sheet: StormMaster
+K2: Storm Master | L2: Class B Share
+K3: Chart of accounts
+I4: From | J4: Year | K4: Total Invoices | L4: Share Equivelent | M4: Shares distrobuted | N4: Share Class | O4: Class A Subgroup
+FORMULA: K5 = =SUM(K8:K107) | FORMULA: L5 = =SUM(L8:L107) | FORMULA: M5 = =SUM(M8:M107)
+I8: Invoice | J8: 2023 | K8: 58629.96 | FORMULA: L8 = =K8*'RM Treasury'!$C$21 | FORMULA: M8 = =L8 | N8: Class B Share
+I9: Invoice | J9: 2024 | K9: 15000 | FORMULA: L9 = =K9*'RM Treasury'!$C$21 | FORMULA: M9 = =L9 | N9: Class B Share
+I10: Invoice | J10: 2025-05-05 00:00:00 | K10: 10267.5 | FORMULA: L10 = =K10*'RM Treasury'!$C$21 | FORMULA: M10 = =L10 | N10: Class B Share
+I11: Invoice | J11: 2025-04-01 00:00:00 | K11: 9808.5 | FORMULA: L11 = =K11*'RM Treasury'!$C$21 | FORMULA: M11 = =L11 | N11: Class B Share
+I12: Invoice | J12: 2025-02-25 00:00:00 | K12: 9633 | FORMULA: L12 = =K12*'RM Treasury'!$C$21 | FORMULA: M12 = =L12 | N12: Class B Share
+I13: Invoice | J13: 2025-02-05 00:00:00 | K13: 3260.45 | FORMULA: L13 = =K13*'RM Treasury'!$C$21 | FORMULA: M13 = =L13 | N13: Class B Share
+I14: Invoice | J14: 2025-02-03 00:00:00 | K14: 6708 | FORMULA: L14 = =K14*'RM Treasury'!$C$21 | FORMULA: M14 = =L14 | N14: Class B Share
+I15: Invoice | J15: 2025-01-21 00:00:00 | K15: 10000 | FORMULA: L15 = =K15*'RM Treasury'!$C$21 | FORMULA: M15 = =L15 | N15: Class B Share
+I16: Invoice | J16: 2025-01-09 00:00:00 | K16: 15000 | FORMULA: L16 = =K16*'RM Treasury'!$C$21 | FORMULA: M16 = =L16 | N16: Class B Share
+I17: Transfer | J17: 2025-07-01 00:00:00 | K17: -10000 | FORMULA: L17 = =K17*'RM Treasury'!$C$21 | FORMULA: M17 = =L17 | N17: Class B Share
+FORMULA: L18 = =K18*'RM Treasury'!$C$21 | N18: Class B Share
+FORMULA: L19 = =K19*'RM Treasury'!$C$21 | N19: Class B Share
+FORMULA: L20 = =K20*'RM Treasury'!$C$21 | N20: Class B Share
+FORMULA: L21 = =K21*'RM Treasury'!$C$21 | N21: Class B Share
+FORMULA: L22 = =K22*'RM Treasury'!$C$21 | N22: Class B Share
+FORMULA: L23 = =K23*'RM Treasury'!$C$21 | N23: Class B Share
+FORMULA: L24 = =K24*'RM Treasury'!$C$21 | N24: Class B Share
+FORMULA: L25 = =K25*'RM Treasury'!$C$21 | N25: Class B Share
+FORMULA: L26 = =K26*'RM Treasury'!$C$21 | N26: Class B Share
+FORMULA: L27 = =K27*'RM Treasury'!$C$21 | N27: Class B Share
+FORMULA: L28 = =K28*'RM Treasury'!$C$21 | N28: Class B Share
+FORMULA: L29 = =K29*'RM Treasury'!$C$21 | N29: Class B Share
+FORMULA: L30 = =K30*'RM Treasury'!$C$21 | N30: Class B Share
+FORMULA: L31 = =K31*'RM Treasury'!$C$21 | N31: Class B Share
+FORMULA: L32 = =K32*'RM Treasury'!$C$21 | N32: Class B Share
+FORMULA: L33 = =K33*'RM Treasury'!$C$21 | N33: Class B Share
+FORMULA: L34 = =K34*'RM Treasury'!$C$21 | N34: Class B Share
+FORMULA: L35 = =K35*'RM Treasury'!$C$21 | N35: Class B Share
+FORMULA: L36 = =K36*'RM Treasury'!$C$21 | N36: Class B Share
+FORMULA: L37 = =K37*'RM Treasury'!$C$21 | N37: Class B Share
+FORMULA: L38 = =K38*'RM Treasury'!$C$21 | N38: Class B Share
+FORMULA: L39 = =K39*'RM Treasury'!$C$21 | N39: Class B Share
+FORMULA: L40 = =K40*'RM Treasury'!$C$21 | N40: Class B Share
+FORMULA: L41 = =K41*'RM Treasury'!$C$21 | N41: Class B Share
+FORMULA: L42 = =K42*'RM Treasury'!$C$21 | N42: Class B Share
+FORMULA: L43 = =K43*'RM Treasury'!$C$21 | N43: Class B Share
+FORMULA: L44 = =K44*'RM Treasury'!$C$21 | N44: Class B Share
+FORMULA: L45 = =K45*'RM Treasury'!$C$21 | N45: Class B Share
+FORMULA: L46 = =K46*'RM Treasury'!$C$21 | N46: Class B Share
+FORMULA: L47 = =K47*'RM Treasury'!$C$21 | N47: Class B Share
+FORMULA: L48 = =K48*'RM Treasury'!$C$21 | N48: Class B Share
+FORMULA: L49 = =K49*'RM Treasury'!$C$21 | N49: Class B Share
+FORMULA: L50 = =K50*'RM Treasury'!$C$21 | N50: Class B Share
+FORMULA: L51 = =K51*'RM Treasury'!$C$21 | N51: Class B Share
+FORMULA: L52 = =K52*'RM Treasury'!$C$21 | N52: Class B Share
+FORMULA: L53 = =K53*'RM Treasury'!$C$21 | N53: Class B Share
+FORMULA: L54 = =K54*'RM Treasury'!$C$21 | N54: Class B Share
+FORMULA: L55 = =K55*'RM Treasury'!$C$21 | N55: Class B Share
+FORMULA: L56 = =K56*'RM Treasury'!$C$21 | N56: Class B Share
+FORMULA: L57 = =K57*'RM Treasury'!$C$21 | N57: Class B Share
+FORMULA: L58 = =K58*'RM Treasury'!$C$21 | N58: Class B Share
+FORMULA: L59 = =K59*'RM Treasury'!$C$21 | N59: Class B Share
+FORMULA: L60 = =K60*'RM Treasury'!$C$21 | N60: Class B Share
+FORMULA: L61 = =K61*'RM Treasury'!$C$21 | N61: Class B Share
+FORMULA: L62 = =K62*'RM Treasury'!$C$21 | N62: Class B Share
+FORMULA: L63 = =K63*'RM Treasury'!$C$21 | N63: Class B Share
+FORMULA: L64 = =K64*'RM Treasury'!$C$21 | N64: Class B Share
+FORMULA: L65 = =K65*'RM Treasury'!$C$21 | N65: Class B Share
+FORMULA: L66 = =K66*'RM Treasury'!$C$21 | N66: Class B Share
+FORMULA: L67 = =K67*'RM Treasury'!$C$21 | N67: Class B Share
+FORMULA: L68 = =K68*'RM Treasury'!$C$21 | N68: Class B Share
+FORMULA: L69 = =K69*'RM Treasury'!$C$21 | N69: Class B Share
+FORMULA: L70 = =K70*'RM Treasury'!$C$21 | N70: Class B Share
+FORMULA: L71 = =K71*'RM Treasury'!$C$21 | N71: Class B Share
+FORMULA: L72 = =K72*'RM Treasury'!$C$21 | N72: Class B Share
+FORMULA: L73 = =K73*'RM Treasury'!$C$21 | N73: Class B Share
+FORMULA: L74 = =K74*'RM Treasury'!$C$21 | N74: Class B Share
+FORMULA: L75 = =K75*'RM Treasury'!$C$21 | N75: Class B Share
+FORMULA: L76 = =K76*'RM Treasury'!$C$21 | N76: Class B Share
+FORMULA: L77 = =K77*'RM Treasury'!$C$21 | N77: Class B Share
+FORMULA: L78 = =K78*'RM Treasury'!$C$21 | N78: Class B Share
+FORMULA: L79 = =K79*'RM Treasury'!$C$21 | N79: Class B Share
+FORMULA: L80 = =K80*'RM Treasury'!$C$21 | N80: Class B Share
+FORMULA: L81 = =K81*'RM Treasury'!$C$21 | N81: Class B Share
+FORMULA: L82 = =K82*'RM Treasury'!$C$21 | N82: Class B Share
+FORMULA: L83 = =K83*'RM Treasury'!$C$21 | N83: Class B Share
+FORMULA: L84 = =K84*'RM Treasury'!$C$21 | N84: Class B Share
+FORMULA: L85 = =K85*'RM Treasury'!$C$21 | N85: Class B Share
+FORMULA: L86 = =K86*'RM Treasury'!$C$21 | N86: Class B Share
+FORMULA: L87 = =K87*'RM Treasury'!$C$21 | N87: Class B Share
+FORMULA: L88 = =K88*'RM Treasury'!$C$21 | N88: Class B Share
+FORMULA: L89 = =K89*'RM Treasury'!$C$21 | N89: Class B Share
+FORMULA: L90 = =K90*'RM Treasury'!$C$21 | N90: Class B Share
+FORMULA: L91 = =K91*'RM Treasury'!$C$21 | N91: Class B Share
+FORMULA: L92 = =K92*'RM Treasury'!$C$21 | N92: Class B Share
+FORMULA: L93 = =K93*'RM Treasury'!$C$21 | N93: Class B Share
+FORMULA: L94 = =K94*'RM Treasury'!$C$21 | N94: Class B Share
+FORMULA: L95 = =K95*'RM Treasury'!$C$21 | N95: Class B Share
+FORMULA: L96 = =K96*'RM Treasury'!$C$21 | N96: Class B Share
+FORMULA: L97 = =K97*'RM Treasury'!$C$21 | N97: Class B Share
+FORMULA: L98 = =K98*'RM Treasury'!$C$21 | N98: Class B Share
+FORMULA: L99 = =K99*'RM Treasury'!$C$21 | N99: Class B Share
+FORMULA: L100 = =K100*'RM Treasury'!$C$21 | N100: Class B Share
+FORMULA: L101 = =K101*'RM Treasury'!$C$21 | N101: Class B Share
+FORMULA: L102 = =K102*'RM Treasury'!$C$21 | N102: Class B Share
+FORMULA: L103 = =K103*'RM Treasury'!$C$21 | N103: Class B Share
+FORMULA: L104 = =K104*'RM Treasury'!$C$21 | N104: Class B Share
+FORMULA: L105 = =K105*'RM Treasury'!$C$21 | N105: Class B Share
+FORMULA: L106 = =K106*'RM Treasury'!$C$21 | N106: Class B Share
+FORMULA: J107 = <openpyxl.worksheet.formula.ArrayFormula object at 0x000001D940E69BD0> | FORMULA: L107 = =K107*'RM Treasury'!$C$21 | N107: Class B Share
+
+# Sheet: Eugene Therrien
+K3: Eugene Therrien | L3: Founder Shares | FORMULA: M3 = ='Distro Totals'!C4
+J4: Vesting | K4: Chart of accounts | FORMULA: M4 = =SUM(M6:M11)
+J5: Year | K5: Total Unlock | L5: Share Equivelent | M5: Shares distrobuted | N5: Share Class | O5: Class A Subgroup
+J6: 2025 | K6: 0.1 | FORMULA: L6 = =K6*$M$3 | FORMULA: M6 = =IF(TODAY()<12/31/25,L6,0) | N6: Founder Shares
+J7: 2026 | K7: 0.1 | FORMULA: L7 = =K7*$M$3 | FORMULA: M7 = =IF(TODAY()<12/31/26,L7,0) | N7: Founder Shares
+J8: 2027 | K8: 0.1 | FORMULA: L8 = =K8*$M$3 | FORMULA: M8 = =IF(TODAY()<12/31/27,L8,0) | N8: Founder Shares
+J9: 2028 | K9: 0.1 | FORMULA: L9 = =K9*$M$3 | FORMULA: M9 = =IF(TODAY()<12/31/28,L9,0) | N9: Founder Shares
+J10: 2029 | K10: 0.1 | FORMULA: L10 = =K10*$M$3 | FORMULA: M10 = =IF(TODAY()<12/31/29,L10,0) | N10: Founder Shares
+J11: 2030 | K11: 0.5 | FORMULA: L11 = =K11*$M$3 | FORMULA: M11 = =IF(TODAY()<12/31/30,L11,0) | N11: Founder Shares
+
+# Sheet: Julie Klien
+K3: Storm Master | L3: Class B Share
+K4: Chart of accounts
+I5: From | J5: Date | K5: Total Invoices | L5: Share Equivelent | M5: Shares distrobuted | N5: Share Class | O5: Class A Subgroup
+I6: Transfer | J6: 2025-07-01 00:00:00 | K6: 10000 | FORMULA: L6 = =K6/'RM Treasury'!C21 | FORMULA: M6 = =L6 | N6: Class B Share
+N7: Class B Share
+N8: Class B Share
+
+# Sheet: Lindsay Pioletti
+
+# Sheet: Andrew Lay
+
+# Sheet: Sheet8
